@@ -1,0 +1,1953 @@
+#EXTM3U url-tvg="https://iptvx.one/epg/epg.xml.gz"
+#EXTINF:-1 group-title="Центральные (RU)" tvg-id="2" tvg-logo="https://i.ibb.co/1s0b23f/02-rossiya-1.png",Россия 1
+http://a3569458063-s26881.cdn.ngenix.net/hls/russia_hd/playlist_3.m3u8
+#EXTINF:-1 group-title="Центральные (RU)" tvg-id="3" tvg-logo="https://i.ibb.co/S6rv3Cy/03-match.png",Матч!
+http://82.200.127.58:8080/udp/239.0.12.103:1224
+#EXTINF:-1 group-title="Центральные (RU)" tvg-id="5" tvg-logo="https://i.ibb.co/xg9q5Dx/05-5-kanal.png",5 канал (СПб)
+http://178.163.59.56:4022/udp/234.0.0.205:2000
+#EXTINF:-1 group-title="Центральные (RU)" tvg-id="6" tvg-logo="https://i.ibb.co/hXPVmz8/06-rossiya-k.png",Россия К
+http://a1566400114-s26881.cdn.ngenix.net/hls/russia_k/playlist_3.m3u8
+#EXTINF:-1 group-title="Центральные (RU)" tvg-id="7" tvg-logo="https://i.ibb.co/zS9kQmS/07-rossiya-24.png",Россия 24
+http://178.163.92.161:4022/udp/234.0.0.207:2000
+#EXTINF:-1 group-title="Центральные (RU)" tvg-id="8" tvg-logo="https://i.ibb.co/Y2hkDS7/08-karusel.png",Карусель
+http://178.163.92.204:4022/udp/234.0.0.203:2000
+#EXTINF:-1 group-title="Центральные (RU)" tvg-id="10" tvg-logo="https://i.ibb.co/mGGHNSN/10-tvc.png",ТВ-Ц
+http://178.163.42.116:4022/udp/234.0.0.192:2000
+#EXTINF:-1 group-title="Центральные (RU)" tvg-id="11" tvg-logo="https://i.ibb.co/SxrH7yC/11-ren-tv.png",Рен-ТВ
+http://178.163.13.205:4022/udp/234.0.0.240:2000
+#EXTINF:-1 group-title="Центральные (RU)" tvg-id="12" tvg-logo="https://i.ibb.co/sHk0fFh/12-spas.png",Спас
+http://188.44.98.221:1234/udp/239.54.5.13:1224
+#EXTINF:-1 group-title="Центральные (RU)" tvg-id="13" tvg-logo="https://i.ibb.co/1XTL65L/13-sts.png",СТС
+http://178.163.48.195:4022/udp/234.0.0.239:2000
+#EXTINF:-1 group-title="Центральные (RU)" tvg-id="14" tvg-logo="https://i.ibb.co/mhT4YdB/14-domashniy.png",Домашний
+http://178.163.120.246:4022/udp/234.0.0.191:2000
+#EXTINF:-1 group-title="Центральные (RU)" tvg-id="15" tvg-logo="https://i.ibb.co/nzHbgTV/15-tv3.png",ТВ-3
+http://178.163.114.237:4022/udp/234.0.0.171:2000
+#EXTINF:-1 group-title="Центральные (RU)" tvg-id="19" tvg-logo="https://i.ibb.co/YtjR4D8/19-tnt.png",ТНТ
+http://178.163.120.246:4022/udp/234.0.0.186:2000
+#EXTINF:-1 group-title="Центральные (RU)" tvg-id="15" tvg-logo="https://i.ibb.co/NxdtW07/15-tv3-hd.png",ТВ-3 HD
+http://85.112.114.11:8086/udp/233.170.170.79:58631
+#EXTINF:-1 group-title="Центральные (RU)" tvg-id="16" tvg-logo="https://i.ibb.co/806p4sp/16-pyatniisa-hd.png",Пятница! HD
+http://85.112.114.11:8086/udp/238.2.62.80:1234
+#EXTINF:-1 group-title="Центральные (RU)" tvg-id="18" tvg-logo="https://i.ibb.co/kXyjjWJ/18-mir-hd.png",Мир HD
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/chunklist.m3u8
+#EXTINF:-1 group-title="Центральные (RU)" tvg-id="19" tvg-logo="https://i.ibb.co/D4hFz6M/19-tnt-hd.png",ТНТ HD
+http://85.112.114.11:8086/udp/238.2.50.6:1234
+#EXTINF:-1 group-title="Центральные (RU)" tvg-id="1" tvg-logo="https://i.ibb.co/yWXRFSg/01-perviy-kanal-sh1.png",Первый канал (+1)
+http://178.163.120.246:4022/udp/234.0.0.200:2000
+#EXTINF:-1 group-title="Центральные (RU)" tvg-id="1" tvg-logo="https://i.ibb.co/c3WYWLB/01-perviy-kanal-sh2.png",Первый канал (+2)
+http://176.111.70.161:1234/udp/224.1.1.2:1234
+#EXTINF:-1 group-title="Центральные (RU)" tvg-id="6" tvg-logo="https://i.ibb.co/rw6wGvJ/06-rossiya-k-sh2.png",Россия К (+2)
+http://176.111.65.181:1234/udp/224.1.1.6:1234
+#EXTINF:-1 group-title="Центральные (RU)" tvg-id="8" tvg-logo="https://i.ibb.co/wRJJn9K/08-karusel-sh2.png",Карусель (+2)
+http://193.106.88.118:1234/udp/224.1.1.7:1234
+#EXTINF:-1 group-title="Центральные (RU)" tvg-id="10" tvg-logo="https://i.ibb.co/k5qFWr5/10-tvc-sh2.png",ТВ-Ц (+2)
+http://176.111.68.1:1234/udp/224.1.1.9:1234
+#EXTINF:-1 group-title="Центральные (RU)" tvg-id="11" tvg-logo="https://i.ibb.co/yyxp947/11-ren-tv-sh2.png",Рен-ТВ (+2)
+http://176.111.68.22:1234/udp/224.1.1.12:1234
+#EXTINF:-1 group-title="Центральные (RU)" tvg-id="17" tvg-logo="https://i.ibb.co/s3mbYjf/17-zvezda-sh2.png",Звезда (+2)
+http://193.106.88.91:1234/udp/224.1.1.18:1234
+#EXTINF:-1 group-title="Центральные (RU)" tvg-id="19" tvg-logo="https://i.ibb.co/VpDdXhp/19-tnt-sh2.png",ТНТ (+2)
+http://176.111.64.8:1234/udp/224.1.1.20:1234
+#EXTINF:-1 group-title="Центральные (RU)" tvg-id="20" tvg-logo="https://i.ibb.co/8B1LTJ9/20-muz-tv-sh2.png",Муз-ТВ (+2)
+http://193.106.90.83:1234/udp/224.1.1.10:1234
+#EXTINF:-1 group-title="Центральные (RU)" tvg-id="1" tvg-logo="https://i.ibb.co/B2HT4Kq/01-perviy-kanal-sh4.png",Первый канал (+4)
+http://82.200.127.58:8080/udp/239.0.12.70:1224
+#EXTINF:-1 group-title="Центральные (RU)" tvg-id="5" tvg-logo="https://i.ibb.co/wNNQxbz/05-5-kanal-sh4.png",5 канал (СПб) (+4)
+http://109.248.70.42:4022/udp/239.195.54.14:1234
+#EXTINF:-1 group-title="Центральные (RU)" tvg-id="6" tvg-logo="https://i.ibb.co/qFhsrnk/06-rossiya-k-sh4.png",Россия К (+4)
+http://109.248.70.42:4022/udp/239.195.54.5:1234
+#EXTINF:-1 group-title="Центральные (RU)" tvg-id="10" tvg-logo="https://i.ibb.co/2c35GKr/10-tvc-sh4.pngg",ТВ-Ц (+4)
+http://109.248.70.42:4022/udp/239.195.54.12:1234
+#EXTINF:-1 group-title="Центральные (RU)" tvg-id="14" tvg-logo="https://i.ibb.co/1sRsq7L/14-domashniy-sh4.png",Домашний (+4)
+http://82.200.127.58:8080/udp/239.54.5.100:1224
+#EXTINF:-1 group-title="Центральные (RU)" tvg-id="15" tvg-logo="https://i.ibb.co/19VDBQp/15-tv3-sh4.png",ТВ-3 (+4)
+http://82.200.127.58:8080/udp/239.0.42.65:1224
+#EXTINF:-1 group-title="Центральные (RU)" tvg-id="16" tvg-logo="https://i.ibb.co/xGq3SWH/16-pyatnitsa-sh4.png",Пятница! (+4)
+http://82.200.127.58:8080/udp/239.0.12.87:1224
+#EXTINF:-1 group-title="Центральные (RU)" tvg-id="18" tvg-logo="https://i.ibb.co/HN8fqh2/18-mir-sh4.png",Мир (+4)
+http://82.200.127.58:8080/udp/239.0.42.98:1224
+#EXTINF:-1 group-title="Центральные (RU)" tvg-id="19" tvg-logo="https://i.ibb.co/nrD5WkQ/19-tnt-sh4.png",ТНТ (+4)
+http://82.200.127.58:8080/udp/239.0.42.99:1224
+#EXTINF:-1 group-title="Центральные (RU)" tvg-id="4" tvg-logo="https://i.ibb.co/vsQ44JS/04-ntv-sh7.png",НТВ (+7)
+http://176.125.73.195:34040/udp/233.221.253.4:1234
+#EXTINF:-1 group-title="Центральные (RU)" tvg-id="8" tvg-logo=https://i.ibb.co/1qHCR8s/08-karusel-sh7.png",Карусель (+7)
+http://176.125.73.195:34040/udp/233.221.253.8:1234
+#EXTINF:-1 group-title="Центральные (RU)" tvg-id="13" tvg-logo="https://i.ibb.co/ynGnL7r/13-sts-sh7.png",СТС (+7)
+http://176.125.73.195:34040/udp/233.221.253.33:1234
+#EXTINF:-1 group-title="Центральные (RU)" tvg-id="14" tvg-logo="https://i.ibb.co/dtWD6sx/14-domashniy-sh7.png",Домашний (+7)
+http://176.125.73.195:34040/udp/233.221.253.18:1234
+#EXTINF:-1 group-title="Центральные (RU)" tvg-id="16" tvg-logo="https://i.ibb.co/P6RJb9D/16-pyatnitsa-sh7.png",Пятница! (+7)
+http://176.125.73.195:34040/udp/233.221.253.13:1234
+#EXTINF:-1 group-title="Центральные (RU)" tvg-id="17" tvg-logo="https://i.ibb.co/nkWh5Kf/17-zvezda-sh7.png",Звезда (+7)
+http://176.125.73.195:34040/udp/233.221.253.14:1234
+#EXTINF:-1 group-title="Спортивные" tvg-id="" tvg-logo="",Fight Sports LD 480x360
+http://210.210.155.35/uq2663/h/h05/02.m3u8
+#EXTINF:-1 group-title="Спортивные" tvg-id="37" tvg-logo="",Fight Sports
+http://210.210.155.35/uq2663/h/h05/01.m3u8
+#EXTINF:-1 group-title="Спортивные" tvg-id="" tvg-logo="",Архат До
+http://arhat.tv/public/360p/index.m3u8
+#EXTINF:-1 group-title="Спортивные" tvg-id="" tvg-logo="",Архат До HD 720
+http://arhat.tv/public/720p/index.m3u8
+#EXTINF:-1 group-title="Спортивные" tvg-id="" tvg-logo="",Архат До HD
+http://arhat.tv/public/1080p/index.m3u8
+#EXTINF:-1 group-title="Спортивные" tvg-id="42" tvg-logo="",Конный мир
+http://46.175.122.251:4022/udp/239.195.67.8:1234
+#EXTINF:-1 group-title="Спортивные" tvg-id="" tvg-logo="",Real Madrid TV
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8
+#EXTINF:-1 group-title="Спортивные" tvg-id="44" tvg-logo="",Матч! Футбол 2
+http://188.35.9.18:12050/udp/238.0.12.3:69000
+#EXTINF:-1 group-title="Спортивные" tvg-id="45" tvg-logo="",Матч! Футбол 3
+http://188.35.9.18:13050/udp/238.0.13.3:69000
+#EXTINF:-1 group-title="Спортивные" tvg-id="48" tvg-logo="",Футбол 1 UA
+http://178.150.0.32:8081/udp/238.0.0.80:1234
+#EXTINF:-1 group-title="Спортивные" tvg-id="48" tvg-logo="",Футбол 2 UA
+http://178.150.0.32:8081/udp/238.0.0.81:1234
+#EXTINF:-1 group-title="Спортивные" tvg-id="50" tvg-logo="",КХЛ HD
+http://109.248.70.42:4022/udp/239.195.5.12:1234
+#EXTINF:-1 group-title="Спортивные" tvg-id="" tvg-logo="",DSports (EN)
+http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8
+#EXTINF:-1 group-title="Спортивные" tvg-id="51" tvg-logo="",Eurosport 1
+http://82.200.127.58:8080/udp/239.54.5.45:1224
+#EXTINF:-1 group-title="Спортивные" tvg-id="54" tvg-logo="",Extreme sports
+http://178.163.47.26:4022/udp/234.0.0.150:2000
+#EXTINF:-1 group-title="Спортивные" tvg-id="56" tvg-logo="",Fast & Funbox
+http://193.233.191.164:999/udp/239.191.255.16:13343
+#EXTINF:-1 group-title="Спортивные" tvg-id="" tvg-logo="",Flow Sports 1 (EN)
+http://161.0.157.9/PLTV/88888888/224/3221226899/03.m3u8
+#EXTINF:-1 group-title="Спортивные" tvg-id="" tvg-logo="",Flow Sports 1 HD 720 (EN)
+http://161.0.157.9/PLTV/88888888/224/3221226899/01.m3u8
+#EXTINF:-1 group-title="Спортивные" tvg-id="58" tvg-logo="",MostVideo TV HD 720 (UA)
+http://w4.mostvideo.tv/tv/ch1.m3u8
+#EXTINF:-1 group-title="Спортивные" tvg-id="" tvg-logo="",Olympic Channel
+http://ott-live.olympicchannel.com/out/u/OC1_3.m3u8
+#EXTINF:-1 group-title="Спортивные" tvg-id="" tvg-logo="",Olympic Channel HD 720
+http://ott-live.olympicchannel.com/out/u/OC1_2.m3u8
+#EXTINF:-1 group-title="Спортивные" tvg-id="" tvg-logo="",Olympic Channel HD
+http://ott-live.olympicchannel.com/out/u/OC1_1.m3u8
+#EXTINF:-1 group-title="Спортивные" tvg-id="" tvg-logo="",Polsat Sport Extra HD (PL)
+http://188.35.9.15:21161/udp/176z
+#EXTINF:-1 group-title="Спортивные" tvg-id="" tvg-logo="",Red Bull TV (EN)
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
+#EXTINF:-1 group-title="Спортивные" tvg-id="" tvg-logo="",Red Bull TV HD (EN)
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
+#EXTINF:-1 group-title="Спортивные" tvg-id="" tvg-logo="",Red Bull TV HD 720 (EN)
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+#EXTINF:-1 group-title="Спортивные" tvg-id="59" tvg-logo="",Russian Extreme
+http://178.163.42.133:4022/udp/234.0.0.173:2000
+#EXTINF:-1 group-title="Спортивные" tvg-id="" tvg-logo="",Sharjah Sport (Арабский)
+https://svs.itworkscdn.net/smc4sportslive/smc4.smil/chunklist_b585000.m3u8
+#EXTINF:-1 group-title="Спортивные" tvg-id="" tvg-logo="",Sharjah Sport (Арабский)
+https://svs.itworkscdn.net/smc4sportslive/smc4.smil/chunklist_b2000000.m3u8
+#EXTINF:-1 group-title="Спортивные" tvg-id="" tvg-logo="",Sport Max (EN)
+http://161.0.157.8/PLTV/88888888/224/3221226766/03.m3u8
+#EXTINF:-1 group-title="Спортивные" tvg-id="" tvg-logo="",Sport Max HD 720 (EN)
+http://161.0.157.8/PLTV/88888888/224/3221226766/01.m3u8
+#EXTINF:-1 group-title="Спортивные" tvg-id="" tvg-logo="",Türkmenistan Sport
+http://217.174.225.146/hls/ch004_720/index.m3u8
+#EXTINF:-1 group-title="Спортивные" tvg-id="66" tvg-logo="",Viasat Sport
+http://82.200.127.58:8080/udp/239.54.5.94:1234
+#EXTINF:-1 group-title="Спортивные" tvg-id="67" tvg-logo="",XSport
+http://178.150.0.32:8081/udp/238.0.0.56:1234
+#EXTINF:-1 group-title="Спортивные" tvg-id="67" tvg-logo="",XSport HD
+http://178.150.0.32:8081/udp/238.0.0.57:1234
+#EXTINF:-1 group-title="Спортивные" tvg-id="68" tvg-logo="",Беларусь 5 HD
+http://178.124.183.13/hls/JRKVSUPCP8/bw2500000/playlist.m3u8?version=2
+#EXTINF:-1 group-title="Спортивные" tvg-id="3" tvg-logo="",Матч!
+http://178.163.111.58:4022/udp/234.0.0.204:2000
+#EXTINF:-1 group-title="Спортивные" tvg-id="" tvg-logo="",Сила
+https://gcore.silatv.ru/streams/3431_1488/480n/index.m3u8
+#EXTINF:-1 group-title="Фильмовые" tvg-id="75" tvg-logo="",Дом кино
+http://82.200.127.58:8080/udp/239.54.6.223:1234
+#EXTINF:-1 group-title="Фильмовые" tvg-id="76" tvg-logo="",Классика кино
+https://strm.yandex.ru/kal/kinoclassic/kinoclassic0_169_480p.json/index-v1-a1.m3u8
+#EXTINF:-1 group-title="Фильмовые" tvg-id="78" tvg-logo="",Победа
+http://158.46.233.110:81/udp/239.255.42.143:1234
+#EXTINF:-1 group-title="Фильмовые" tvg-id="80" tvg-logo="",Советское кино
+https://strm.yandex.ru/kal/sovkino_supres/sovkino_supres0_169_480p.json/index-v1-a1.m3u8
+#EXTINF:-1 group-title="Фильмовые" tvg-id="80" tvg-logo="",Советское кино HD 720
+https://strm.yandex.ru/kal/sovkino_supres/sovkino_supres0_169_720p.json/index-v1-a1.m3u8
+#EXTINF:-1 group-title="Фильмовые" tvg-id="81" tvg-logo="",Paramount Comedy
+http://82.200.127.58:8080/udp/239.54.6.38:1224
+#EXTINF:-1 group-title="Фильмовые" tvg-id="87" tvg-logo="",Русский роман
+http://178.163.52.64:4022/udp/234.0.0.224:2000
+#EXTINF:-1 group-title="Фильмовые" tvg-id="88" tvg-logo="",Индийское кино
+http://176.125.66.167:4022/udp/239.54.6.154:1224
+#EXTINF:-1 group-title="Фильмовые" tvg-id="89" tvg-logo="",Zee TV
+http://82.200.127.58:8080/udp/239.54.6.173:1234
+#EXTINF:-1 group-title="Фильмовые" tvg-id="92" tvg-logo="",A-Media 1
+http://178.163.92.204:4022/udp/234.0.0.155:2000
+#EXTINF:-1 group-title="Фильмовые" tvg-id="93" tvg-logo="",A-Media 2
+http://89.106.234.3/A2_36_37.m3u8
+#EXTINF:-1 group-title="Фильмовые" tvg-id="94" tvg-logo="",A-Media Hit
+http://178.163.13.205:4022/udp/234.0.0.169:2000
+#EXTINF:-1 group-title="Фильмовые" tvg-id="94" tvg-logo="",A-Media Hit HD
+http://78.111.93.102:53022/udp/233.166.172.254:1234
+#EXTINF:-1 group-title="Фильмовые" tvg-id="96" tvg-logo="",Bolt
+http://178.150.0.32:8081/udp/238.0.0.102:1234
+#EXTINF:-1 group-title="Фильмовые" tvg-id="97" tvg-logo="",Bollywood
+http://178.163.42.116:4022/udp/234.0.0.195:2000
+#EXTINF:-1 group-title="Фильмовые" tvg-id="99" tvg-logo="",Epic Drama HD
+http://79.135.212.152:4022/udp/238.39.40.213:5000
+#EXTINF:-1 group-title="Фильмовые" tvg-id="100" tvg-logo="",Fan HD
+http://37.193.6.155:34040/udp/239.1.21.52:1234
+#EXTINF:-1 group-title="Фильмовые" tvg-id="108" tvg-logo="",Fox Life
+http://95.181.235.14:999/udp/239.191.254.108:13343
+#EXTINF:-1 group-title="Фильмовые" tvg-id="117" tvg-logo="",Star Cinema
+http://188.35.9.11:21091/udp/116h
+#EXTINF:-1 group-title="Фильмовые" tvg-id="121" tvg-logo="",TV 1000 Action
+http://82.200.127.58:8080/udp/239.54.7.111:1234
+#EXTINF:-1 group-title="Фильмовые" tvg-id="125" tvg-logo="",Vip Megahit HD
+http://37.193.6.155:34040/udp/239.1.21.39:1234
+#EXTINF:-1 group-title="Фильмовые" tvg-id="127" tvg-logo="",Vip Serial HD
+http://37.193.6.155:34040/udp/239.1.21.42:1234
+#EXTINF:-1 group-title="Фильмовые" tvg-id="130" tvg-logo="",Дорама HD
+http://158.46.233.110:81/udp/239.255.43.104:1234
+#EXTINF:-1 group-title="Фильмовые" tvg-id="131" tvg-logo="",Еврокино
+http://178.163.111.58:4022/udp/234.0.0.176:2000
+#EXTINF:-1 group-title="Фильмовые" tvg-id="141" tvg-logo="",Кино ТВ
+http://178.163.45.64:4022/udp/234.0.0.154:2000
+#EXTINF:-1 group-title="Фильмовые" tvg-id="142" tvg-logo="",Кино HD (fake UHD)
+http://188.35.9.18:16050/udp/238.0.16.1:69000
+#EXTINF:-1 group-title="Фильмовые" tvg-id="145" tvg-logo="",Мужское кино
+http://82.200.127.58:8080/udp/239.54.6.1:1224
+#EXTINF:-1 group-title="Фильмовые" tvg-id="145" tvg-logo="",Мужское кино HD
+http://78.111.93.102:53022/udp/233.166.172.154:1234
+#EXTINF:-1 group-title="Фильмовые" tvg-id="151" tvg-logo="",Русский бестселлер
+http://82.200.127.58:8080/udp/239.54.7.33:1224
+#EXTINF:-1 group-title="Фильмовые" tvg-id="153" tvg-logo="",Русский иллюзион
+http://82.200.127.58:8080/udp/239.54.6.161:1224
+#EXTINF:-1 group-title="Фильмовые" tvg-id="153" tvg-logo="",Русский иллюзион HD
+http://158.46.233.110:81/udp/239.255.43.81:1234
+#EXTINF:-1 group-title="Эротические" tvg-id="" tvg-logo="https://i.ibb.co/K02F5WY/ast1.png",AST TV 1 (18+)
+https://www.ast.tv/stream/1/cellular.m3u8
+#EXTINF:-1 group-title="Эротические" tvg-id="" tvg-logo="https://i.ibb.co/jVXXRDz/ast2.png",AST TV 2 (18+)
+https://www.ast.tv/stream/2/cellular.m3u8
+#EXTINF:-1 group-title="Эротические" tvg-id="" tvg-logo="https://i.ibb.co/0MWwBqS/ast1-720.png",AST TV 1 HD 720 (18+)
+https://www.ast.tv/stream/1/high.m3u8
+#EXTINF:-1 group-title="Эротические" tvg-id="" tvg-logo="https://i.ibb.co/6tCY7ph/ast2-720.png",AST TV 2 HD 720 (18+)
+https://www.ast.tv/stream/2/high.m3u8
+#EXTINF:-1 group-title="Эротические" tvg-id="" tvg-logo="https://i.ibb.co/mCxhXtd/ast1-1080.png",AST TV 1 HD (18+)
+https://www.ast.tv/stream/1/ultra.m3u8
+#EXTINF:-1 group-title="Эротические" tvg-id="" tvg-logo="https://i.ibb.co/C6t6k93/ast2-1080.png",AST TV 2 HD (18+)
+https://www.ast.tv/stream/2/ultra.m3u8
+#EXTINF:-1 group-title="Эротические" tvg-id="" tvg-logo="https://i.ibb.co/0r3fNnQ/babestation-24.png",Babestation 24
+http://sdn-global-live-http-cache.3qsdn.com/live/_definst_/amlst:9528-mbr/chunklist_b1728000.m3u8
+#EXTINF:-1 group-title="Эротические" tvg-id="158" tvg-logo="https://i.ibb.co/rmzzs2z/blue-hustler.png",Blue Hustler (18+)
+http://178.124.183.12/hls/CH_BLUEHUSTLER/bw2000000/playlist.m3u8?version=2
+#EXTINF:-1 group-title="Эротические" tvg-id="159" tvg-logo="https://i.ibb.co/ZSsfqTz/brazzers.png",Brazzers TV Europe (18+)
+http://45.140.95.148:8082/udp/239.191.254.170:15285
+#EXTINF:-1 group-title="Эротические" tvg-id="160" tvg-logo="https://i.ibb.co/zrY2B43/candy.png",Candy TV HD (18+)
+http://185.7.94.86:4021/udp/239.10.2.178:5000
+#EXTINF:-1 group-title="Эротические" tvg-id="161" tvg-logo="https://i.ibb.co/Hz2vTWx/candyman.png",Candyman (18+)
+http://185.7.94.86:4021/udp/239.10.1.186:5000
+#EXTINF:-1 group-title="Эротические" tvg-id="" tvg-logo="https://i.ibb.co/gyvqb2b/dorcel-hd.png",Dorcel HD (18+)
+http://188.35.9.13:21141/udp/214h
+#EXTINF:-1 group-title="Эротические" tvg-id="162" tvg-logo="https://i.ibb.co/B2NDJrw/erox.png",Erox (18+)
+http://95.181.236.231:8082/udp/239.191.255.6:15285
+#EXTINF:-1 group-title="Эротические" tvg-id="" tvg-logo="https://i.ibb.co/b1s7J8N/free-x-tv.png",Free X TV HD 720 (18+)
+http://95.181.236.231:8082/udp/239.191.254.38:15285
+#EXTINF:-1 group-title="Эротические" tvg-id="163" tvg-logo="https://i.ibb.co/HKhzf8h/frenchlover.png",FrenchLover (18+)
+http://95.181.236.231:8082/udp/239.191.254.251:15285
+#EXTINF:-1 group-title="Эротические" tvg-id="164" tvg-logo="https://i.ibb.co/gZGdzk8/hustler-tv-hd.png",Hustler HD (18+)
+http://78.111.93.102:53022/udp/233.166.172.253:1234
+#EXTINF:-1 group-title="Эротические" tvg-id="170" tvg-logo="https://i.ibb.co/vZ5j9bS/nu-art.png",Nu Art (18+)
+http://185.7.94.86:4021/udp/239.10.2.42:5000
+#EXTINF:-1 group-title="Эротические" tvg-id="166" tvg-logo="https://i.ibb.co/4JrPqzJ/o-la-la.png",O-la-la (18+)
+http://188.44.98.221:1234/udp/239.54.7.71:1234
+#EXTINF:-1 group-title="Эротические" tvg-id="169" tvg-logo="https://i.ibb.co/hHNH9B7/private-hd.png",Private TV HD (18+)
+http://188.35.9.12:21091/udp/129i
+#EXTINF:-1 group-title="Эротические" tvg-id="" tvg-logo="https://i.ibb.co/kHjJYN6/redlight.png",Redlight HD (18+)
+http://185.7.94.86:4021/udp/239.10.2.227:5000
+#EXTINF:-1 group-title="Эротические" tvg-id="" tvg-logo="https://i.ibb.co/mXsbRw6/redtraffic-1.png",RedTraffic Big Ass HD 720 (18+)
+http://live.redtraffic.xyz/bigass.m3u8
+#EXTINF:-1 group-title="Эротические" tvg-id="" tvg-logo="https://i.ibb.co/4MZvV06/redtraffic-2.png",RedTraffic Big Dick HD 720 (18+)
+http://live.redtraffic.xyz/bigdick.m3u8
+#EXTINF:-1 group-title="Эротические" tvg-id="" tvg-logo="https://i.ibb.co/mFHLXr0/redtraffic-3.png",RedTraffic Big Tits HD 720 (18+)
+http://live.redtraffic.xyz/bigtits.m3u8
+#EXTINF:-1 group-title="Эротические" tvg-id="" tvg-logo="https://i.ibb.co/SJW3q6b/redtraffic-4.png",RedTraffic Blowjob HD 720 (18+)
+http://live.redtraffic.xyz/blowjob.m3u8
+#EXTINF:-1 group-title="Эротические" tvg-id="" tvg-logo="https://i.ibb.co/tM30GgZ/redtraffic-5.png",RedTraffic Cuckold HD 720 (18+)
+http://live.redtraffic.xyz/cuckold.m3u8
+#EXTINF:-1 group-title="Эротические" tvg-id="" tvg-logo="https://i.ibb.co/fMBHkf3/redtraffic-6.png",RedTraffic Fetish HD 720 (18+)
+http://live.redtraffic.xyz/fetish.m3u8
+#EXTINF:-1 group-title="Эротические" tvg-id="" tvg-logo="https://i.ibb.co/YBhBdmZ/redtraffic-7.png",RedTraffic Hardcore HD 720 (18+)
+http://live.redtraffic.xyz/hardcore.m3u8
+#EXTINF:-1 group-title="Эротические" tvg-id="" tvg-logo="https://i.ibb.co/cr6JT3y/redtraffic-8.png",RedTraffic Interracial HD 720 (18+)
+http://live.redtraffic.xyz/interracial.m3u8
+#EXTINF:-1 group-title="Эротические" tvg-id="" tvg-logo="https://i.ibb.co/tqvMpfk/redtraffic-9.png",RedTraffic Latina HD 720 (18+)
+http://live.redtraffic.xyz/latina.m3u8
+#EXTINF:-1 group-title="Эротические" tvg-id="" tvg-logo="https://i.ibb.co/7NHc8rZ/redtraffic-10.png",RedTraffic Lesbian HD 720 (18+)
+http://live.redtraffic.xyz/lesbian.m3u8
+#EXTINF:-1 group-title="Эротические" tvg-id="" tvg-logo="https://i.ibb.co/g6NV6yP/redtraffic-11.png",RedTraffic Milf HD 720 (18+)
+http://live.redtraffic.xyz/milf.m3u8
+#EXTINF:-1 group-title="Эротические" tvg-id="" tvg-logo="https://i.ibb.co/d2YtbXz/redtraffic-12.png",RedTraffic Pornstar HD 720 (18+)
+http://live.redtraffic.xyz/pornstar.m3u8
+#EXTINF:-1 group-title="Эротические" tvg-id="" tvg-logo="https://i.ibb.co/S6HQpRk/redtraffic-13.png",RedTraffic POV HD 720 (18+)
+http://live.redtraffic.xyz/pov.m3u8
+#EXTINF:-1 group-title="Эротические" tvg-id="" tvg-logo="https://i.ibb.co/42pqrPd/redtraffic-14.png",RedTraffic Russian HD 720 (18+)
+http://live.redtraffic.xyz/russian.m3u8
+#EXTINF:-1 group-title="Эротические" tvg-id="" tvg-logo="https://i.ibb.co/6FYJ7Sw/redtraffic-15.png",RedTraffic Teen HD 720 (18+)
+http://live.redtraffic.xyz/teen.m3u8
+#EXTINF:-1 group-title="Эротические" tvg-id="" tvg-logo="https://i.ibb.co/R4LT8Yf/redtraffic-16.png",RedTraffic Threesome HD 720 (18+)
+http://live.redtraffic.xyz/threesome.m3u8
+#EXTINF:-1 group-title="Эротические" tvg-id="" tvg-logo="https://i.ibb.co/6vq3m3H/vivid-red-hd.png",Vivid Red HD (18+)
+http://188.35.9.14:21131/udp/142d
+#EXTINF:-1 group-title="Эротические" tvg-id="" tvg-logo="https://i.ibb.co/XkK791Y/zest-tv.png",Zest TV (18+)
+http://188.35.9.14:21131/udp/137a
+#EXTINF:-1 group-title="Эротические" tvg-id="172" tvg-logo="https://i.ibb.co/T260VTw/russkaya-noch.png",Русская Ночь (18+)
+http://176.125.66.167:4022/udp/239.54.6.159:1234
+#EXTINF:-1 group-title="Познавательные" tvg-id="179" tvg-logo="",History HD
+http://78.111.93.102:53022/udp/225.101.62.83:1234
+#EXTINF:-1 group-title="Познавательные" tvg-id="180" tvg-logo="",RT Doc
+http://82.200.127.58:8080/udp/239.54.6.166:1224
+#EXTINF:-1 group-title="Познавательные" tvg-id="180" tvg-logo="",RT Doc HD 720
+https://strm.yandex.ru/kal/rtd_hd/rtd_hd0_169_720p.json/index-v1-a1.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-id="180" tvg-logo="",RT Doc HD
+http://188.242.4.249:7780/udp/239.239.3.55:5239
+#EXTINF:-1 group-title="Познавательные" tvg-id="181" tvg-logo="",Viasat History
+http://82.200.127.58:8080/udp/239.54.5.93:1234
+#EXTINF:-1 group-title="Познавательные" tvg-id="182" tvg-logo="",Время
+http://178.163.13.43:4022/udp/234.0.0.225:2000
+#EXTINF:-1 group-title="Познавательные" tvg-id="188" tvg-logo="",36.6
+http://178.150.0.32:8081/udp/238.0.0.61:1234
+#EXTINF:-1 group-title="Познавательные" tvg-id="188" tvg-logo="",36.6 HD
+http://178.150.0.32:8081/udp/238.0.0.148:1234
+#EXTINF:-1 group-title="Познавательные" tvg-id="186" tvg-logo="",My Zen TV HD
+http://158.46.233.110:81/udp/239.255.43.20:1234
+#EXTINF:-1 group-title="Познавательные" tvg-id="186" tvg-logo="",My Zen TV 4K UHD
+http://46.160.166.9:81/udp/239.254.2.238:1234
+#EXTINF:-1 group-title="Познавательные" tvg-id="187" tvg-logo="",Доктор
+http://82.200.127.58:8080/udp/239.54.6.104:1224
+#EXTINF:-1 group-title="Познавательные" tvg-id="187" tvg-logo="",Доктор HD
+http://77.247.170.238:20009/udp/235.10.10.191:1234
+#EXTINF:-1 group-title="Познавательные" tvg-id="189" tvg-logo="",Живи!
+http://109.248.72.241:4044/udp/239.195.1.196:1234
+#EXTINF:-1 group-title="Познавательные" tvg-id="189" tvg-logo="",Живи! HD
+http://158.46.233.110:81/udp/239.255.43.68:1234
+#EXTINF:-1 group-title="Познавательные" tvg-id="190" tvg-logo="",Здоровое ТВ
+http://178.163.114.237:4022/udp/234.0.0.221:2000
+#EXTINF:-1 group-title="Познавательные" tvg-id="191" tvg-logo="",Здоровье
+http://46.36.25.160:1213/udp/239.255.0.230:1234
+#EXTINF:-1 group-title="Познавательные" tvg-id="192" tvg-logo="",Discovery Channel
+http://46.175.122.251:4022/udp/239.195.65.2:1234
+#EXTINF:-1 group-title="Познавательные" tvg-id="192" tvg-logo="",Discovery Channel HD
+http://185.7.94.86:4021/udp/239.10.1.201:5000
+#EXTINF:-1 group-title="Познавательные" tvg-id="193" tvg-logo="",Discovery Science
+http://46.175.122.251:4022/udp/239.195.65.1:1234
+#EXTINF:-1 group-title="Познавательные" tvg-id="193" tvg-logo="",Discovery Science HD
+http://77.247.170.238:20009/udp/235.10.10.140:1234
+#EXTINF:-1 group-title="Познавательные" tvg-id="193" tvg-logo="",Discovery Science HD Europe
+http://95.85.93.206:8082/udp/239.191.255.148:15283
+#EXTINF:-1 group-title="Познавательные" tvg-id="196" tvg-logo="",Galaxy
+http://178.163.42.116:4022/udp/234.0.0.111:2000
+#EXTINF:-1 group-title="Познавательные" tvg-id="198" tvg-logo="",Наука (UA)
+http://178.150.0.32:8081/udp/238.0.0.92:1234
+#EXTINF:-1 group-title="Познавательные" tvg-id="197" tvg-logo="",Наука 2.0
+http://178.163.92.161:4022/udp/234.0.0.226:2000
+#EXTINF:-1 group-title="Познавательные" tvg-id="199" tvg-logo="",Техно 24
+http://62.76.17.199:81/udp/239.195.4.89:1234
+#EXTINF:-1 group-title="Познавательные" tvg-id="200" tvg-logo="",Эврика HD
+http://158.46.233.110:81/udp/239.255.43.73:1234
+#EXTINF:-1 group-title="Познавательные" tvg-id="201" tvg-logo="",Дача (UA)
+http://79.135.212.152:4022/udp/238.39.40.97:5000
+#EXTINF:-1 group-title="Познавательные" tvg-id="202" tvg-logo="",Загородная жизнь
+http://46.175.122.251:4022/udp/239.195.65.29:1234
+#EXTINF:-1 group-title="Познавательные" tvg-id="203" tvg-logo="",Загородный
+http://95.181.236.231:8082/udp/239.191.254.194:13343
+#EXTINF:-1 group-title="Познавательные" tvg-id="204" tvg-logo="",Загородный International
+https://strm.yandex.ru/kal/zagorod/zagorod0_169_480p.json/index-v1-a1.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-id="204" tvg-logo="",Загородный International HD 720
+https://strm.yandex.ru/kal/zagorod/zagorod0_169_720p.json/index-v1-a1.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-id="204" tvg-logo="",Загородный International HD
+https://strm.yandex.ru/kal/zagorod/zagorod0_169_1080p.json/index-v1-a1.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-id="205" tvg-logo="",Усадьба
+http://178.163.65.245:4022/udp/234.0.0.220:2000
+#EXTINF:-1 group-title="Познавательные" tvg-id="206" tvg-logo="",English Club TV
+http://178.163.45.64:4022/udp/234.0.0.174:2000
+#EXTINF:-1 group-title="Познавательные" tvg-id="207" tvg-logo="",ЕГЭ ТВ
+http://109.248.73.69:4022/udp/239.195.1.128:1234
+#EXTINF:-1 group-title="Познавательные" tvg-id="208" tvg-logo="",Первый Образовательный
+http://176.125.126.110:4022/udp/233.12.144.117:5050
+#EXTINF:-1 group-title="Познавательные" tvg-id="209" tvg-logo="",Синергия ТВ
+http://109.248.116.115:4044/udp/239.195.1.105:1234
+#EXTINF:-1 group-title="Познавательные" tvg-id="209" tvg-logo="",Синергия ТВ HD 720
+http://live-synergytv.cdnvideo.ru/synergytv/synergytv.sdp/chunklist.m3u8?hls_proxy_host=pub1.rtmp.s01.l.synergytv
+#EXTINF:-1 group-title="Познавательные" tvg-id="210" tvg-logo="",Ваш успех
+http://109.248.72.241:4044/udp/239.195.0.111:1234
+#EXTINF:-1 group-title="Познавательные" tvg-id="211" tvg-logo="",Перший діловий
+http://79.135.212.152:4022/udp/238.39.40.69:5000
+#EXTINF:-1 group-title="Познавательные" tvg-id="212" tvg-logo="",Про бизнес
+http://109.248.75.121:4044/udp/239.195.0.170:1234
+#EXTINF:-1 group-title="Познавательные" tvg-id="213" tvg-logo="",ТБН
+http://46.175.122.251:4022/udp/239.195.64.46:1234
+#EXTINF:-1 group-title="Познавательные" tvg-id="213" tvg-logo="",ТБН HD 720
+http://109.248.72.241:4044/udp/239.195.0.30:1234
+#EXTINF:-1 group-title="Познавательные" tvg-id="214" tvg-logo="",Твой Дом TV
+http://46.175.122.251:4022/udp/239.195.65.48:1234
+#EXTINF:-1 group-title="Познавательные" tvg-id="215" tvg-logo="",Animal Planet
+http://82.200.127.58:8080/udp/239.54.6.84:1234
+#EXTINF:-1 group-title="Познавательные" tvg-id="217" tvg-logo="",Home 4K UHD
+http://46.160.167.232:81/udp/239.254.2.42:1234
+#EXTINF:-1 group-title="Познавательные" tvg-id="218" tvg-logo="",Nat Geo Wild
+http://164.138.94.46:999/udp/239.191.254.87:13343
+#EXTINF:-1 group-title="Познавательные" tvg-id="218" tvg-logo="",Nat Geo Wild HD
+http://185.7.94.86:4021/udp/239.10.1.113:5000
+#EXTINF:-1 group-title="Познавательные" tvg-id="220" tvg-logo="",Ocean TV
+http://185.7.94.86:4021/udp/239.10.2.117:5000
+#EXTINF:-1 group-title="Познавательные" tvg-id="221" tvg-logo="",Viasat Nature
+http://82.200.127.58:8080/udp/239.54.5.90:1234
+#EXTINF:-1 group-title="Познавательные" tvg-id="222" tvg-logo="",ZooПарк
+http://178.163.114.237:4022/udp/234.0.0.216:2000
+#EXTINF:-1 group-title="Познавательные" tvg-id="223" tvg-logo="",В мире животных HD
+http://158.46.241.40:81/udp/239.255.43.74:1234
+#EXTINF:-1 group-title="Познавательные" tvg-id="225" tvg-logo="",Домашние животные
+http://109.248.75.121:4044/udp/239.195.1.214:1234
+#EXTINF:-1 group-title="Познавательные" tvg-id="226" tvg-logo="",Живая планета
+http://82.200.127.58:8080/udp/239.54.5.166:1224
+#EXTINF:-1 group-title="Познавательные" tvg-id="228" tvg-logo="",Зоо ТВ
+http://46.36.25.160:1213/udp/239.255.0.232:1234
+#EXTINF:-1 group-title="Познавательные" tvg-id="229" tvg-logo="",Морской
+http://95.85.93.206:8082/udp/239.191.254.178:13343
+#EXTINF:-1 group-title="Познавательные" tvg-id="230" tvg-logo="",Моя Планета
+http://a3569456481-s26881.cdn.ngenix.net/live/smil:mplan.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-id="232" tvg-logo="",Наша Сибирь
+https://strm.yandex.ru/kal/sibir/sibir0_169_480p.json/index-v1-a1.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-id="232" tvg-logo="",Наша Сибирь HD 720
+https://strm.yandex.ru/kal/sibir/sibir0_169_720p.json/index-v1-a1.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-id="232" tvg-logo="",Наша Сибирь HD
+https://strm.yandex.ru/kal/sibir/sibir0_169_1080p.json/index-v1-a1.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-id="233" tvg-logo="",Пёс и Ко
+http://109.248.75.121:4044/udp/239.195.1.150:1234
+#EXTINF:-1 group-title="Познавательные" tvg-id="234" tvg-logo="",Фауна (UA)
+http://178.150.0.32:8081/udp/238.0.0.97:1234
+#EXTINF:-1 group-title="Познавательные" tvg-id="235" tvg-logo="",Insight 4K UHD
+http://46.160.167.232:81/udp/239.254.2.21:1234
+#EXTINF:-1 group-title="Познавательные" tvg-id="238" tvg-logo="",RTG TV
+http://82.200.127.58:8080/udp/239.54.6.8:1224
+#EXTINF:-1 group-title="Познавательные" tvg-id="240" tvg-logo="",RTG HD
+http://78.111.93.102:53022/udp/233.166.172.224:1234
+#EXTINF:-1 group-title="Познавательные" tvg-id="239" tvg-logo="",Terra Incognita
+https://strm.yandex.ru/kal/terra/terra0_169_480p.json/index-v1-a1.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-id="239" tvg-logo="",Terra Incognita HD 720
+https://strm.yandex.ru/kal/terra/terra0_169_720p.json/index-v1-a1.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-id="241" tvg-logo="",Travel+ Adventure
+http://109.248.90.56:4044/udp/239.195.1.23:1234
+#EXTINF:-1 group-title="Познавательные" tvg-id="241" tvg-logo="",Travel+ Adventure HD
+http://109.248.75.121:4044/udp/239.195.5.4:1234
+#EXTINF:-1 group-title="Познавательные" tvg-id="242" tvg-logo="",Travel Channel
+http://109.74.208.91:34040/udp/233.12.144.206:5050
+#EXTINF:-1 group-title="Познавательные" tvg-id="242" tvg-logo="",Travel Channel HD
+http://185.7.94.86:4021/udp/239.10.1.123:5000
+#EXTINF:-1 group-title="Познавательные" tvg-id="244" tvg-logo="",Неизвестная планета
+https://strm.yandex.ru/kal/unknownplanet/unknownplanet0_169_480p.json/index-v1-a1.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-id="245" tvg-logo="",Поехали!
+http://95.85.93.206:8082/udp/239.191.255.8:13343
+#EXTINF:-1 group-title="Познавательные" tvg-id="245" tvg-logo="",Поехали! HD
+http://95.181.236.231:8082/udp/239.191.255.150:15283
+#EXTINF:-1 group-title="Познавательные" tvg-id="246" tvg-logo="",Приключения HD
+http://158.46.233.110:81/udp/239.255.43.37:1234
+#EXTINF:-1 group-title="Познавательные" tvg-id="248" tvg-logo="",Телепутешествия
+http://78.111.93.102:53022/udp/233.166.172.123:1234
+#EXTINF:-1 group-title="Познавательные" tvg-id="249" tvg-logo="",Fine Living
+http://176.125.126.110:4022/udp/233.12.144.243:5050
+#EXTINF:-1 group-title="Познавательные" tvg-id="250" tvg-logo="",ID Xtra
+http://95.181.236.231:8082/udp/239.191.254.172:13343
+#EXTINF:-1 group-title="Познавательные" tvg-id="252" tvg-logo="",Museum HD
+http://77.247.170.238:20009/udp/235.10.10.175:1234
+#EXTINF:-1 group-title="Познавательные" tvg-id="253" tvg-logo="",Nano
+http://82.200.127.58:8080/udp/239.54.6.40:1224
+#EXTINF:-1 group-title="Познавательные" tvg-id="253" tvg-logo="",Nano HD
+http://109.248.72.241:4044/udp/239.195.5.219:1234
+#EXTINF:-1 group-title="Познавательные" tvg-id="254" tvg-logo="",National Geographic HD
+http://78.111.93.102:53022/udp/225.101.62.81:1234
+#EXTINF:-1 group-title="Познавательные" tvg-id="256" tvg-logo="",TLC
+http://82.200.127.58:8080/udp/239.54.6.90:1234
+#EXTINF:-1 group-title="Познавательные" tvg-id="258" tvg-logo="",UA: Культура
+http://api.tv.ipnet.ua/api/v1/manifest/1311962540.m3u8?codec=mpeg4
+#EXTINF:-1 group-title="Познавательные" tvg-id="259" tvg-logo="",Viasat Explore
+http://82.200.127.58:8080/udp/239.54.5.92:1234
+#EXTINF:-1 group-title="Познавательные" tvg-id="260" tvg-logo="",Бобёр
+http://109.74.208.91:34040/udp/239.54.6.245:1234
+#EXTINF:-1 group-title="Познавательные" tvg-id="261" tvg-logo="",Диалоги о рыбалке HD 720
+https://strm.yandex.ru/kal/dialogi/dialogi0_169_720p.json/index-v1-a1.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-id="261" tvg-logo="",Диалоги о рыбалке HD
+http://95.181.236.231:8082/udp/239.191.254.227:15283
+#EXTINF:-1 group-title="Познавательные" tvg-id="262" tvg-logo="",Дикая охота HD
+http://109.248.70.42:4022/udp/239.195.5.209:1234
+#EXTINF:-1 group-title="Познавательные" tvg-id="263" tvg-logo="",Дикая рыбалка HD
+http://109.248.73.69:4022/udp/239.195.5.210:1234
+#EXTINF:-1 group-title="Познавательные" tvg-id="264" tvg-logo="",Мир Увлечений
+http://185.13.134.215:81/udp/239.254.3.63:1234
+#EXTINF:-1 group-title="Познавательные" tvg-id="266" tvg-logo="",Оружие
+http://176.114.128.127:81/udp/239.100.8.24:1234
+#EXTINF:-1 group-title="Познавательные" tvg-id="267" tvg-logo="",Охота и рыбалка
+http://178.163.58.72:4022/udp/234.0.0.230:2000
+#EXTINF:-1 group-title="Познавательные" tvg-id="268" tvg-logo="",Охотник и Рыболов
+http://178.163.58.72:4022/udp/234.0.0.98:2000
+#EXTINF:-1 group-title="Познавательные" tvg-id="269" tvg-logo="",Охотник и рыболов HD
+http://78.111.93.102:53022/udp/233.166.172.223:1234
+#EXTINF:-1 group-title="Познавательные" tvg-id="270" tvg-logo="",Первый вегетарианский
+http://109.248.75.121:4044/udp/239.195.1.13:1234
+#EXTINF:-1 group-title="Познавательные" tvg-id="271" tvg-logo="",Психология 21
+http://62.76.17.199:81/udp/239.195.4.94:1234
+#EXTINF:-1 group-title="Познавательные" tvg-id="6" tvg-logo="",Россия К
+http://46.175.122.251:4022/udp/239.195.64.6:1234
+#EXTINF:-1 group-title="Познавательные" tvg-id="6" tvg-logo="",Россия К (+2)
+http://109.248.72.241:4044/udp/239.195.52.5:1234
+#EXTINF:-1 group-title="Познавательные" tvg-id="6" tvg-logo="",Россия К (+4)
+http://109.248.73.69:4022/udp/239.195.54.5:1234
+#EXTINF:-1 group-title="Познавательные" tvg-id="6" tvg-logo="",Россия К (+7)
+http://95.181.236.231:8082/udp/239.191.254.243:13343
+#EXTINF:-1 group-title="Познавательные" tvg-id="273" tvg-logo="",Тномер (Ремонт)
+http://109.248.70.42:4022/udp/239.195.1.157:1234
+#EXTINF:-1 group-title="Познавательные" tvg-id="274" tvg-logo="",Трофей (UA)
+http://46.37.210.19:34040/udp/238.39.40.99:5000
+#EXTINF:-1 group-title="Детские" tvg-id="276" tvg-logo="",2x2
+http://178.163.28.120:4022/udp/234.0.0.244:2000
+#EXTINF:-1 group-title="Детские" tvg-id="276" tvg-logo="",2x2 (+4)
+http://188.44.98.221:1234/udp/239.54.5.20:1224
+#EXTINF:-1 group-title="Детские" tvg-id="276" tvg-logo="",2x2 (+7)
+http://95.181.236.231:8082/udp/239.191.254.151:13343
+#EXTINF:-1 group-title="Детские" tvg-id="" tvg-logo="",Ani
+http://82.200.127.58:8080/udp/239.54.6.109:1234
+#EXTINF:-1 group-title="Детские" tvg-id="277" tvg-logo="",Baby TV
+http://37.195.250.64:4022/udp/239.1.21.48:1234
+#EXTINF:-1 group-title="Детские" tvg-id="278" tvg-logo="",Boomerang
+http://45.140.95.148:8082/udp/239.191.254.37:13343
+#EXTINF:-1 group-title="Детские" tvg-id="280" tvg-logo="",Cartoon Network
+http://176.125.66.167:4022/udp/239.54.6.57:1224
+#EXTINF:-1 group-title="Детские" tvg-id="282" tvg-logo="",Da Vinci
+http://82.200.127.58:8080/udp/239.54.5.95:1234
+#EXTINF:-1 group-title="Детские" tvg-id="283" tvg-logo="",Disney Channel
+http://178.163.76.12:4022/udp/234.0.0.198:2000
+#EXTINF:-1 group-title="Детские" tvg-id="283" tvg-logo="",Disney Channel (+2)
+http://46.36.25.160:1213/udp/239.255.0.56:1234
+#EXTINF:-1 group-title="Детские" tvg-id="283" tvg-logo="",Disney Channel (+4)
+http://37.195.250.64:4022/udp/239.1.15.12:1234
+#EXTINF:-1 group-title="Детские" tvg-id="283" tvg-logo="",Disney Channel (+7)
+http://95.181.236.231:8082/udp/239.191.254.147:13343
+#EXTINF:-1 group-title="Детские" tvg-id="287" tvg-logo="",Duck TV
+http://178.150.0.32:8081/udp/238.0.0.137:1234
+#EXTINF:-1 group-title="Детские" tvg-id="288" tvg-logo="",Gulli Girl
+http://46.175.122.251:4022/udp/239.195.65.62:1234
+#EXTINF:-1 group-title="Детские" tvg-id="289" tvg-logo="",JimJam
+http://185.134.37.238:4022/udp/234.0.0.152:2000
+#EXTINF:-1 group-title="Детские" tvg-id="290" tvg-logo="",Lale
+http://stream.atr.ua/lale/live/index.m3u8
+#EXTINF:-1 group-title="Детские" tvg-id="" tvg-logo="",Niki Kids
+http://178.150.0.32:8081/udp/238.0.0.114:1234
+#EXTINF:-1 group-title="Детские" tvg-id="" tvg-logo="",Niki Kids HD
+http://178.150.0.32:8081/udp/238.0.0.115:1234
+#EXTINF:-1 group-title="Детские" tvg-id="" tvg-logo="",Niki Junior
+http://178.150.0.32:8081/udp/238.0.0.116:1234
+#EXTINF:-1 group-title="Детские" tvg-id="" tvg-logo="",Niki Junior HD
+http://178.150.0.32:8081/udp/238.0.0.117:1234
+#EXTINF:-1 group-title="Детские" tvg-id="291" tvg-logo="",Nick Jr.
+http://82.200.127.58:8080/udp/239.54.6.5:1234
+#EXTINF:-1 group-title="Детские" tvg-id="292" tvg-logo="",Nickelodeon
+http://178.163.42.116:4022/udp/234.0.0.153:2000
+#EXTINF:-1 group-title="Детские" tvg-id="293" tvg-logo="",Nickelodeon HD
+http://46.180.99.15:81/udp/239.255.43.24:1234
+#EXTINF:-1 group-title="Детские" tvg-id="" tvg-logo="",MiniMini+ HD (PL)
+http://188.35.9.11:21131/udp/141l
+#EXTINF:-1 group-title="Детские" tvg-id="294" tvg-logo="",TiJi
+http://178.163.65.245:4022/udp/234.0.0.252:2000
+#EXTINF:-1 group-title="Детские" tvg-id="296" tvg-logo="",Детский
+http://178.163.101.21:4022/udp/234.0.0.217:2000
+#EXTINF:-1 group-title="Детские" tvg-id="296" tvg-logo="",Детский HD
+http://46.180.99.15:81/udp/239.255.43.62:1234
+#EXTINF:-1 group-title="Детские" tvg-id="297" tvg-logo="",Детский мир
+http://46.175.122.251:4022/udp/239.195.65.37:1234
+#EXTINF:-1 group-title="Детские" tvg-id="8" tvg-logo="",Карусель
+http://176.110.236.248:34040/udp/238.1.1.8:1234
+#EXTINF:-1 group-title="Детские" tvg-id="8" tvg-logo="",Карусель (+2)
+http://109.248.73.69:4022/udp/239.195.52.20:1234
+#EXTINF:-1 group-title="Детские" tvg-id="8" tvg-logo="",Карусель (+4)
+http://109.248.73.69:4022/udp/239.195.54.20:1234
+#EXTINF:-1 group-title="Детские" tvg-id="8" tvg-logo="",Карусель (+7)
+http://109.248.72.241:4044/udp/239.195.57.20:1234
+#EXTINF:-1 group-title="Детские" tvg-id="298" tvg-logo="",Капитан Фантастика HD
+http://158.46.233.110:81/udp/239.255.43.89:1234
+#EXTINF:-1 group-title="Детские" tvg-id="300" tvg-logo="",Малыш
+http://109.248.70.42:4022/udp/239.195.1.33:1234
+#EXTINF:-1 group-title="Детские" tvg-id="" tvg-logo="",Малятко TV
+http://46.37.210.19:34040/udp/238.39.40.87:5000
+#EXTINF:-1 group-title="Детские" tvg-id="301" tvg-logo="",Мама
+http://176.110.236.248:34040/udp/238.1.2.3:1234
+#EXTINF:-1 group-title="Детские" tvg-id="302" tvg-logo="",Мульт
+http://176.110.236.248:34040/udp/238.1.2.11:1234
+#EXTINF:-1 group-title="Детские" tvg-id="303" tvg-logo="",Мульт и музыка
+http://82.200.127.58:8080/udp/239.54.5.73:1224
+#EXTINF:-1 group-title="Детские" tvg-id="305" tvg-logo="",Мультимания
+http://82.200.127.58:8080/udp/239.54.5.158:1224
+#EXTINF:-1 group-title="Детские" tvg-id="305" tvg-logo="",Мультимания HD
+http://176.197.185.234:81/udp/239.255.43.63:1234
+#EXTINF:-1 group-title="Детские" tvg-id="306" tvg-logo="",О!
+http://46.181.116.168:81/udp/239.255.42.130:1234
+#EXTINF:-1 group-title="Детские" tvg-id="307" tvg-logo="",Пiксель (UA)
+http://178.150.0.32:8081/udp/238.0.0.20:1234
+#EXTINF:-1 group-title="Детские" tvg-id="308" tvg-logo="",Пингвин Ло-Ло
+http://109.248.72.241:4044/udp/239.195.1.118:1234
+#EXTINF:-1 group-title="Детские" tvg-id="309" tvg-logo="",Плюс Плюс (UA)
+http://79.135.212.152:4022/udp/238.39.40.86:5000
+#EXTINF:-1 group-title="Детские" tvg-id="310" tvg-logo="",Радость моя
+http://109.248.73.69:4022/udp/239.195.0.74:1234
+#EXTINF:-1 group-title="Детские" tvg-id="311" tvg-logo="",Рыжий
+http://62.76.21.145:81/udp/239.195.4.65:1234
+#EXTINF:-1 group-title="Детские" tvg-id="313" tvg-logo="",Смайлик ТВ HD 720
+http://95.181.236.231:8082/udp/239.191.254.92:13343
+#EXTINF:-1 group-title="Детские" tvg-id="316" tvg-logo="",Тлум HD
+http://46.36.25.160:1213/udp/239.255.0.152:1234
+#EXTINF:-1 group-title="Развлекательные" tvg-id="317" tvg-logo="",Авто 24
+http://185.134.37.238:4022/udp/234.0.0.227:2000
+#EXTINF:-1 group-title="Развлекательные" tvg-id="317" tvg-logo="",Авто 24 HD
+http://77.247.174.120:15902/udp/235.10.10.138:1234
+#EXTINF:-1 group-title="Развлекательные" tvg-id="318" tvg-logo="",Авто плюс
+http://178.49.77.88:3371/udp/239.1.2.6:1234
+#EXTINF:-1 group-title="Развлекательные" tvg-id="319" tvg-logo="",Драйв
+http://178.163.45.64:4022/udp/234.0.0.245:2000
+#EXTINF:-1 group-title="Развлекательные" tvg-id="320" tvg-logo="",Перший автомобільний (UA)
+http://46.37.210.19:34040/udp/238.39.40.218:5000
+#EXTINF:-1 group-title="Развлекательные" tvg-id="321" tvg-logo="",Game Show
+https://strm.yandex.ru/kal/etv/etv0_169_480p.json/index-v1-a1.m3u8
+#EXTINF:-1 group-title="Развлекательные" tvg-id="321" tvg-logo="",Game Show HD 720
+https://strm.yandex.ru/kal/etv/etv0_169_720p.json/index-v1-a1.m3u8
+#EXTINF:-1 group-title="Развлекательные" tvg-id="321" tvg-logo="",Game Show HD
+https://strm.yandex.ru/kal/etv/etv0_169_1080p.json/index-v1-a1.m3u8
+#EXTINF:-1 group-title="Развлекательные" tvg-id="323" tvg-logo="",CBS Reality
+http://109.248.72.241:4044/udp/239.195.1.14:1234
+#EXTINF:-1 group-title="Развлекательные" tvg-id="324" tvg-logo="",DTX
+http://46.175.122.251:4022/udp/239.195.65.3:1234
+#EXTINF:-1 group-title="Развлекательные" tvg-id="326" tvg-logo="",HD Life
+http://37.193.6.155:34040/udp/239.1.9.2:1234
+#EXTINF:-1 group-title="Развлекательные" tvg-id="327" tvg-logo="",HD Media (720p)
+http://109.248.70.42:4022/udp/239.195.5.21:1234
+#EXTINF:-1 group-title="Развлекательные" tvg-id="329" tvg-logo="",Luxury HD
+http://109.248.75.121:4044/udp/239.195.5.222:1234
+#EXTINF:-1 group-title="Развлекательные" tvg-id="330" tvg-logo="",Outdoor Channel
+http://109.248.70.42:4022/udp/239.195.1.81:1234
+#EXTINF:-1 group-title="Развлекательные" tvg-id="332" tvg-logo="",Вопросы и ответы
+http://176.114.128.127:81/udp/239.100.2.36:1234
+#EXTINF:-1 group-title="Развлекательные" tvg-id="334" tvg-logo="",Мужской
+http://46.175.122.251:4022/udp/239.195.65.28:1234
+#EXTINF:-1 group-title="Развлекательные" tvg-id="335" tvg-logo="",Наша тема
+http://46.175.122.251:4022/udp/239.195.66.2:1234
+#EXTINF:-1 group-title="Развлекательные" tvg-id="336" tvg-logo="",Ностальгия
+http://178.163.101.21:4022/udp/234.0.0.190:2000
+#EXTINF:-1 group-title="Развлекательные" tvg-id="337" tvg-logo="",Театр
+http://46.160.167.232:81/udp/239.254.3.62:1234
+#EXTINF:-1 group-title="Развлекательные" tvg-id="338" tvg-logo="",Food Network
+http://109.74.208.91:34040/udp/233.12.144.244:5050
+#EXTINF:-1 group-title="Развлекательные" tvg-id="338" tvg-logo="",Food Network HD
+http://158.46.233.110:81/udp/239.255.43.103:1234
+#EXTINF:-1 group-title="Развлекательные" tvg-id="340" tvg-logo="",Еда
+http://109.248.70.42:4022/udp/239.195.0.24:1234
+#EXTINF:-1 group-title="Развлекательные" tvg-id="341" tvg-logo="",Еда Премиум HD
+http://158.46.233.110:81/udp/239.255.43.39:1234
+#EXTINF:-1 group-title="Развлекательные" tvg-id="342" tvg-logo="",Кухня ТВ
+http://176.125.126.110:4022/udp/233.12.144.41:5050
+#EXTINF:-1 group-title="Развлекательные" tvg-id="343" tvg-logo="",Телекафе
+http://178.163.35.238:4022/udp/234.0.0.249:2000
+#EXTINF:-1 group-title="Развлекательные" tvg-id="345" tvg-logo="",FashionBox HD
+http://195.138.78.66:8085/udp/239.2.153.111:1234
+#EXTINF:-1 group-title="Развлекательные" tvg-id="347" tvg-logo="",Fashion One HD
+http://185.134.37.238:4022/udp/234.0.0.212:2000
+#EXTINF:-1 group-title="Развлекательные" tvg-id="349" tvg-logo="",Fashion TV
+http://95.181.236.231:8082/udp/239.191.254.69:13343
+#EXTINF:-1 group-title="Развлекательные" tvg-id="" tvg-logo="",Fashion TV (SK)
+http://80.94.54.42/fashiontv/stream/chunklist_w1498188138.m3u8
+#EXTINF:-1 group-title="Развлекательные" tvg-id="" tvg-logo="",HD Fashion & Lifestyle TV (720p)
+http://95.67.47.114/hls/hdfashion_ua_mid/index.m3u8
+#EXTINF:-1 group-title="Развлекательные" tvg-id="" tvg-logo="",ID Fashion (UA)
+http://idfashion-hls1.cosmonova.net.ua/hls/idfashion_ua_low/index.m3u8
+#EXTINF:-1 group-title="Развлекательные" tvg-id="" tvg-logo="",ID Fashion HD 720 (UA)
+http://idfashion-hls1.cosmonova.net.ua/hls/idfashion_ua_mid/index.m3u8
+#EXTINF:-1 group-title="Развлекательные" tvg-id="" tvg-logo="",ID Fashion HD (UA)
+http://idfashion-hls1.cosmonova.net.ua/hls/idfashion_ua_hi/index.m3u8
+#EXTINF:-1 group-title="Развлекательные" tvg-id="350" tvg-logo="",MiLady (UA)
+http://79.135.212.152:4022/udp/238.39.40.85:5000
+#EXTINF:-1 group-title="Развлекательные" tvg-id="" tvg-logo="",Odessa Fashion (UA)
+http://195.138.78.74:8085/udp/239.0.38.31:1234
+#EXTINF:-1 group-title="Развлекательные" tvg-id="351" tvg-logo="",World Fashion
+http://109.248.72.241:4044/udp/239.195.0.47:1234
+#EXTINF:-1 group-title="Развлекательные" tvg-id="351" tvg-logo="",World Fashion HD
+http://46.37.210.19:34040/udp/238.39.40.226:5000
+#EXTINF:-1 group-title="Развлекательные" tvg-id="" tvg-logo="",World Fashion HD Europe
+http://79.135.212.152:4022/udp/238.39.40.226:5000
+#EXTINF:-1 group-title="Развлекательные" tvg-id="352" tvg-logo="",Анекдот ТВ
+http://46.180.99.15:81/udp/239.255.42.95:1234
+#EXTINF:-1 group-title="Развлекательные" tvg-id="353" tvg-logo="",КВН ТВ
+http://109.248.75.121:4044/udp/239.195.1.107:1234
+#EXTINF:-1 group-title="Развлекательные" tvg-id="355" tvg-logo="",Сарафан
+http://178.163.85.202:4022/udp/234.0.0.246:2000
+#EXTINF:-1 group-title="Развлекательные" tvg-id="356" tvg-logo="",Супер
+http://109.248.72.241:4044/udp/239.195.1.151:1234
+#EXTINF:-1 group-title="Развлекательные" tvg-id="356" tvg-logo="",Супер HD 720
+http://195.191.208.2:8086/udp/229.54.15.90:1234
+#EXTINF:-1 group-title="Развлекательные" tvg-id="356" tvg-logo="",Супер HD
+http://85.112.114.11:8086/udp/238.2.49.249:1234
+#EXTINF:-1 group-title="Развлекательные" tvg-id="356" tvg-logo="",Супер (+2)
+http://46.36.25.160:1213/udp/239.255.0.212:1234
+#EXTINF:-1 group-title="Развлекательные" tvg-id="356" tvg-logo="",Супер (+4)
+http://158.46.233.110:81/udp/239.255.42.120:1234
+#EXTINF:-1 group-title="Развлекательные" tvg-id="356" tvg-logo="",Супер (+7)
+http://95.181.236.231:8082/udp/239.191.254.141:13343
+#EXTINF:-1 group-title="Развлекательные" tvg-id="357" tvg-logo="",Че!
+http://46.175.122.251:4022/udp/239.195.65.51:1234
+#EXTINF:-1 group-title="Развлекательные" tvg-id="357" tvg-logo="",Че! (+2)
+http://46.36.25.160:1213/udp/239.255.0.35:1234
+#EXTINF:-1 group-title="Развлекательные" tvg-id="357" tvg-logo="",Че! (+4)
+http://82.200.127.58:8080/udp/239.54.5.4:1224
+#EXTINF:-1 group-title="Развлекательные" tvg-id="357" tvg-logo="",Че! (+7)
+http://176.114.128.127:81/udp/239.100.2.13:1234
+#EXTINF:-1 group-title="Развлекательные" tvg-id="16" tvg-logo="",Пятница!
+http://46.175.122.251:4022/udp/239.195.64.16:1234
+#EXTINF:-1 group-title="Развлекательные" tvg-id="16" tvg-logo="",Пятница! (+2)
+http://46.36.25.160:1213/udp/239.255.0.20:1234
+#EXTINF:-1 group-title="Развлекательные" tvg-id="16" tvg-logo="",Пятница! (+4)
+http://109.248.73.69:4022/udp/239.195.54.32:1234
+#EXTINF:-1 group-title="Развлекательные" tvg-id="16" tvg-logo="",Пятница! (+7)
+http://109.248.72.241:4044/udp/239.195.57.32:1234
+#EXTINF:-1 group-title="Развлекательные" tvg-id="16" tvg-logo="",Пятница! HD
+http://195.191.208.2:8086/udp/233.170.170.112:58631
+#EXTINF:-1 group-title="Развлекательные" tvg-id="359" tvg-logo="",Раз-ТВ
+http://188.44.98.221:1234/udp/239.54.5.43:1224
+#EXTINF:-1 group-title="Развлекательные" tvg-id="13" tvg-logo="",СТС
+http://109.248.73.69:4022/udp/239.195.32.8:1234
+#EXTINF:-1 group-title="Развлекательные" tvg-id="13" tvg-logo="",СТС (+2)
+http://109.248.70.42:4022/udp/239.195.52.8:1234
+#EXTINF:-1 group-title="Развлекательные" tvg-id="13" tvg-logo="",СТС (+4)
+http://109.248.73.69:4022/udp/239.195.54.8:1234
+#EXTINF:-1 group-title="Развлекательные" tvg-id="13" tvg-logo="https://i.ibb.co/3mR0DfF/829.png",СТС (+4) Кузбасс
+http://82.200.127.58:8080/udp/239.54.5.235:1234
+#EXTINF:-1 group-title="Развлекательные" tvg-id="13" tvg-logo="",СТС (+5)
+http://37.49.189.126:81/udp/238.1.1.44:1234
+#EXTINF:-1 group-title="Развлекательные" tvg-id="13" tvg-logo="",СТС (+7)
+http://109.248.75.121:4044/udp/239.195.57.8:1234
+#EXTINF:-1 group-title="Развлекательные" tvg-id="360" tvg-logo="",СТС Love
+http://109.248.75.121:4044/udp/239.195.0.96:1234
+#EXTINF:-1 group-title="Развлекательные" tvg-id="360" tvg-logo="",СТС Love (+2)
+http://46.36.25.160:1213/udp/239.255.0.57:1234
+#EXTINF:-1 group-title="Развлекательные" tvg-id="360" tvg-logo="",СТС Love (+7)
+http://95.181.236.231:8082/udp/239.191.254.31:13343
+#EXTINF:-1 group-title="Развлекательные" tvg-id="" tvg-logo="https://i.ibb.co/xHM9yLh/835.png",СТС Мир (+4)
+http://82.200.127.58:8080/udp/239.54.5.170:1234
+#EXTINF:-1 group-title="Развлекательные" tvg-id="19" tvg-logo="",ТНТ
+http://109.248.72.241:4044/udp/239.195.32.11:1234
+#EXTINF:-1 group-title="Развлекательные" tvg-id="19" tvg-logo="",ТНТ (+2)
+http://109.248.72.241:4044/udp/239.195.52.11:1234
+#EXTINF:-1 group-title="Развлекательные" tvg-id="19" tvg-logo="",ТНТ (+4)
+http://109.248.70.42:4022/udp/239.195.54.11:1234
+#EXTINF:-1 group-title="Развлекательные" tvg-id="19" tvg-logo="",ТНТ (+7)
+http://109.248.95.38:4044/udp/239.195.57.11:1234
+#EXTINF:-1 group-title="Развлекательные" tvg-id="19" tvg-logo="",ТНТ HD
+http://195.191.208.2:8086/udp/238.2.50.6:1234
+#EXTINF:-1 group-title="Развлекательные" tvg-id="361" tvg-logo="",ТНТ4
+http://178.163.117.132:4022/udp/234.0.0.181:2000
+#EXTINF:-1 group-title="Развлекательные" tvg-id="361" tvg-logo="",ТНТ4 HD 720
+http://195.191.208.2:8086/udp/229.54.13.244:1234
+#EXTINF:-1 group-title="Развлекательные" tvg-id="361" tvg-logo="",ТНТ4 HD
+http://85.112.114.11:8086/udp/233.170.170.130:58631
+#EXTINF:-1 group-title="Развлекательные" tvg-id="361" tvg-logo="",ТНТ4 (+2)
+http://46.36.25.160:1213/udp/239.255.0.38:1234
+#EXTINF:-1 group-title="Развлекательные" tvg-id="361" tvg-logo="",ТНТ4 (+4)
+http://46.180.99.15:81/udp/239.255.42.196:1234
+#EXTINF:-1 group-title="Развлекательные" tvg-id="361" tvg-logo="",ТНТ4 (+7)
+http://95.85.93.206:8082/udp/239.191.254.66:13343
+#EXTINF:-1 group-title="Развлекательные" tvg-id="362" tvg-logo="",Точка ТВ
+http://46.175.122.251:4022/udp/239.195.67.12:1234
+#EXTINF:-1 group-title="Развлекательные" tvg-id="363" tvg-logo="",Ю
+http://176.110.236.248:34040/udp/238.1.1.22:1234
+#EXTINF:-1 group-title="Развлекательные" tvg-id="363" tvg-logo="",Ю (+2)
+http://46.36.25.160:1213/udp/239.255.0.30:1234
+#EXTINF:-1 group-title="Развлекательные" tvg-id="363" tvg-logo="",Ю (+4)
+http://82.200.127.58:8080/udp/239.54.5.68:1224
+#EXTINF:-1 group-title="Развлекательные" tvg-id="363" tvg-logo="",Ю (+7)
+http://82.200.127.58:8080/udp/239.54.6.169:1224
+#EXTINF:-1 group-title="Музыкальные" tvg-id="364" tvg-logo="",1 Music TV SD
+https://strm.yandex.ru/kal/1hd/1hd0_169_480p.json/index-v1-a1.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-id="364" tvg-logo="",1 Music TV HD 720
+https://strm.yandex.ru/kal/1hd/1hd0_169_720p.json/index-v1-a1.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-id="364" tvg-logo="",1 Music TV HD
+https://strm.yandex.ru/kal/1hd/1hd0_169_1080p.json/index-v1-a1.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-id="365" tvg-logo="",360 Tune Box HD
+http://195.138.78.75:8085/udp/239.2.153.107:1234
+#EXTINF:-1 group-title="Музыкальные" tvg-id="366" tvg-logo="",4 Ever music HD (UA)
+http://178.150.0.32:8081/udp/238.0.0.211:1234
+#EXTINF:-1 group-title="Музыкальные" tvg-id="" tvg-logo="",4fun (PL)
+http://188.35.9.18:16050/udp/238.0.16.5:69000
+#EXTINF:-1 group-title="Музыкальные" tvg-id="367" tvg-logo="",ACB TV
+http://109.248.73.69:4022/udp/239.195.0.85:1234
+#EXTINF:-1 group-title="Музыкальные" tvg-id="367" tvg-logo="",ACB TV HD 720
+https://strm.yandex.ru/kal/acb/acb0_169_720p.json/index-v1-a1.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-id="368" tvg-logo="",Bridge TV
+http://82.200.127.58:8080/udp/239.54.5.9:1224
+#EXTINF:-1 group-title="Музыкальные" tvg-id="370" tvg-logo="",Bridge TV Deluxe HD
+http://109.248.90.56:4044/udp/239.195.5.213:1234
+#EXTINF:-1 group-title="Музыкальные" tvg-id="369" tvg-logo="",Bridge TV Русский хит
+http://178.163.28.120:4022/udp/234.0.0.179:2000
+#EXTINF:-1 group-title="Музыкальные" tvg-id="371" tvg-logo="",Bridge TV Classic
+http://82.200.127.58:8080/udp/239.54.5.5:1224
+#EXTINF:-1 group-title="Музыкальные" tvg-id="372" tvg-logo="",Bridge TV Hits
+http://95.181.236.231:8082/udp/239.191.254.160:13343
+#EXTINF:-1 group-title="Музыкальные" tvg-id="373" tvg-logo="",C Music HD
+http://158.46.233.110:81/udp/239.255.43.84:1234
+#EXTINF:-1 group-title="Музыкальные" tvg-id="" tvg-logo="",Chau TV HD 720
+http://video.chaula.tv/hls/live/high/playlist_high.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-id="" tvg-logo="",Deejay TV
+http://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/index_600_av-p.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-id="" tvg-logo="",Deutsches Musik Fernsehen
+https://tv.artcom-venture.de/dmf/tv_360.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-id="" tvg-logo="",Deutsches Musik Fernsehen HD 720
+https://tv.artcom-venture.de/dmf/tv_720.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-id="561" tvg-logo="",Etho HD
+http://46.37.210.19:34040/udp/238.39.40.224:5000
+#EXTINF:-1 group-title="Музыкальные" tvg-id="" tvg-logo="",Etho 4K UHD
+http://178.150.0.32:8081/udp/238.0.0.212:1234
+#EXTINF:-1 group-title="Музыкальные" tvg-id="376" tvg-logo="",Eu Music (UA)
+http://195.138.78.72:8085/udp/239.1.13.57:1234
+#EXTINF:-1 group-title="Музыкальные" tvg-id="376" tvg-logo="",Eu Music HD (UA)
+http://178.150.0.32:8081/udp/238.0.0.49:1234
+#EXTINF:-1 group-title="Музыкальные" tvg-id="377" tvg-logo="",Europa Plus TV
+http://178.163.117.112:4022/udp/234.0.0.183:2000
+#EXTINF:-1 group-title="Музыкальные" tvg-id="377" tvg-logo="",Europa Plus TV HD
+http://46.160.166.9:81/udp/239.254.2.211:1234
+#EXTINF:-1 group-title="Музыкальные" tvg-id="" tvg-logo="",Hit Music Channel
+http://94.21.128.54/hitmusic.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-id="379" tvg-logo="",Hit TV
+https://strm.yandex.ru/kal/hittv/hittv0_169_480p.json/index-v1-a1.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-id="379" tvg-logo="",Hit TV HD 720
+https://strm.yandex.ru/kal/hittv/hittv0_169_720p.json/index-v1-a1.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-id="379" tvg-logo="",Hit TV HD
+https://strm.yandex.ru/kal/hittv/hittv0_169_1080p.json/index-v1-a1.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-id="" tvg-logo="",Kronehit TV
+https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1228000.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-id="" tvg-logo="",Kronehit TV HD
+https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-id="" tvg-logo="",Kronehit TV HD 720
+https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1628000.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-id="" tvg-logo="",M2O TV Music
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-id="381" tvg-logo="",MCM Top
+http://185.7.94.86:4021/udp/239.10.1.8:5000
+#EXTINF:-1 group-title="Музыкальные" tvg-id="382" tvg-logo="",Mezzo
+http://158.46.233.110:81/udp/239.255.43.50:1234
+#EXTINF:-1 group-title="Музыкальные" tvg-id="383" tvg-logo="",Mezzo Live HD
+http://78.111.93.102:53022/udp/225.101.15.22:1234
+#EXTINF:-1 group-title="Музыкальные" tvg-id="384" tvg-logo="",MTV
+http://95.85.93.206:8082/udp/239.191.254.197:13343
+#EXTINF:-1 group-title="Музыкальные" tvg-id="385" tvg-logo="",MTV Norway
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_1250_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="Музыкальные" tvg-id="385" tvg-logo="",MTV Norway HD 720
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-id="384" tvg-logo="",MTV HD
+http://37.193.6.155:34040/udp/239.1.21.44:1234
+#EXTINF:-1 group-title="Музыкальные" tvg-id="386" tvg-logo="",MTV Live HD
+http://46.36.25.160:1213/udp/239.255.0.164:1234
+#EXTINF:-1 group-title="Музыкальные" tvg-id="" tvg-logo="",MTV Azerbaycan
+http://188.35.9.13:21111/udp/152t
+#EXTINF:-1 group-title="Музыкальные" tvg-id="387" tvg-logo="",MTV Dance
+http://46.37.210.19:34040/udp/238.39.40.208:5000
+#EXTINF:-1 group-title="Музыкальные" tvg-id="388" tvg-logo="",MTV Hits
+http://185.7.94.86:4021/udp/239.10.2.63:5000
+#EXTINF:-1 group-title="Музыкальные" tvg-id="389" tvg-logo="",MTV Rocks
+http://46.36.25.160:1213/udp/239.255.0.123:1234
+#EXTINF:-1 group-title="Музыкальные" tvg-id="" tvg-logo="",Music Box (SK)
+http://80.94.54.42/tvnasa/stream/playlist.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-id="391" tvg-logo="",Music Box (UA)
+http://46.37.210.19:34040/udp/238.39.40.93:5000
+#EXTINF:-1 group-title="Музыкальные" tvg-id="391" tvg-logo="",Music Box HD (UA)
+http://176.119.87.40:1212/udp/239.0.153.173:1234
+#EXTINF:-1 group-title="Музыкальные" tvg-id="390" tvg-logo="",Music Box Gold
+http://95.85.93.206:8082/udp/239.191.254.94:13343
+#EXTINF:-1 group-title="Музыкальные" tvg-id="" tvg-logo="",Music Top
+http://200.115.193.177/live/msctphd-360/chunklist_w1135351997.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-id="" tvg-logo="",Music Top HD 720
+http://200.115.193.177/live/msctphd-720/chunklist_w1936316961.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-id="" tvg-logo="",Music Vox TV (PL)
+http://188.35.9.10:21141/udp/154i
+#EXTINF:-1 group-title="Музыкальные" tvg-id="393" tvg-logo="",O-TV Music (UA)
+http://46.37.210.19:34040/udp/238.39.40.92:5000
+#EXTINF:-1 group-title="Музыкальные" tvg-id="" tvg-logo="",Polsat Music HD (PL)
+http://188.35.9.5:10020/stolen/428w/hot.dll
+#EXTINF:-1 group-title="Музыкальные" tvg-id="" tvg-logo="",Radio 51 TV (IT)
+http://178.32.140.155/canale51/canale51/chunklist_w368850496.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-id="" tvg-logo="",Radio 538 TV HD 720
+https://talparadiohls-i.akamaihd.net/hls/live/624107/VR-Radio538-1/Radio538Stream-Q5.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-id="" tvg-logo="",Radio Capital TV (Италия)
+http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/index_5_av-b.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-id="" tvg-logo="",Radio Contact Vision (audio)
+http://contact-lh.akamaihd.net/i/CONTACT_1@321283/index_400_a-p.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-id="" tvg-logo="",Radio Italia Vision
+http://livetr.teleromagna.it/lifestyle/live/live/lifestyle480/chunks.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-id="" tvg-logo="",Radio Pilatus HD (веб-камера)
+https://livevideo.infomaniak.com/streaming/livecast/rp_tv_1/chunklist_w678494225.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-id="" tvg-logo="",Radio Zeta
+https://rtl-radio-stream-thron.akamaized.net/live-video/video3/ngrp:video3/chunklist_b1196000.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-id="" tvg-logo="",RadioZ
+http://unlimited1-cl.dps.live/radioztv/radioztv.smil/radioztv/livestream3/chunks.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-id="" tvg-logo="",Retro Music CZ
+http://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w1148701433.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-id="" tvg-logo="",RTL 102.5 TV HD 720
+http://rtl-radio-stream-thron.akamaized.net/live-video/video1/video1/chunklist_b2296000.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-id="392" tvg-logo="",RU TV
+http://rutv.gcdn.co/streams/1410_1272/480n/index.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-id="392" tvg-logo="",RU TV HD 720
+http://rutv.gcdn.co/streams/1410_1272/720n/index.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-id="392" tvg-logo="",RU TV HD
+https://strm.yandex.ru/kal/rutv_cv/rutv_cv0_169_1080p.json/index-v1-a1.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-id="394" tvg-logo="",Russian Music Box
+http://46.180.99.15:81/udp/239.255.42.100:1234
+#EXTINF:-1 group-title="Музыкальные" tvg-id="394" tvg-logo="",Russian Music Box HD 720
+https://strm.yandex.ru/kal/rmbox/rmbox0_169_720p.json/index-v1-a1.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-id="394" tvg-logo="",Russian Music Box HD
+https://strm.yandex.ru/kal/rmbox/rmbox0_169_1080p.json/index-v1-a1.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-id="" tvg-logo="",Shant Music HD (AM)
+http://158.46.233.110:81/udp/239.255.43.6:1234
+#EXTINF:-1 group-title="Музыкальные" tvg-id="" tvg-logo="",Trace Africa
+https://d2ktlibtvvj8vp.cloudfront.net/trace_africa/5/prog_index.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-id="" tvg-logo="",Trace Africa HD 720
+https://d2ktlibtvvj8vp.cloudfront.net/trace_africa/6/prog_index.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-id="" tvg-logo="",Trace Ayiti
+https://d2ktlibtvvj8vp.cloudfront.net/trace_ayiti/5/prog_index.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-id="" tvg-logo="",Trace Ayiti HD 720
+https://d2ktlibtvvj8vp.cloudfront.net/trace_ayiti/6/prog_index.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-id="" tvg-logo="",Trace Gospel
+https://d2ktlibtvvj8vp.cloudfront.net/trace_gospel/4/prog_index.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-id="" tvg-logo="",Trace Gospel HD
+https://d2ktlibtvvj8vp.cloudfront.net/trace_gospel/6/prog_index.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-id="" tvg-logo="",Trace Gospel HD 720
+https://d2ktlibtvvj8vp.cloudfront.net/trace_gospel/5/prog_index.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-id="" tvg-logo="",Trace Kitoko
+https://d2ktlibtvvj8vp.cloudfront.net/trace_kitoko/5/prog_index.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-id="" tvg-logo="",Trace Kitoko HD 720
+https://d2ktlibtvvj8vp.cloudfront.net/trace_kitoko/6/prog_index.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-id="" tvg-logo="",Trace Latina
+https://d2ktlibtvvj8vp.cloudfront.net/trace_latina/5/prog_index.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-id="" tvg-logo="",Trace Latina HD 720
+https://d2ktlibtvvj8vp.cloudfront.net/trace_latina/6/prog_index.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-id="" tvg-logo="",Trace Mziki
+http://d2ktlibtvvj8vp.cloudfront.net/trace_mizki/5/prog_index.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-id="" tvg-logo="",Trace Mziki HD 720
+http://d2ktlibtvvj8vp.cloudfront.net/trace_mizki/6/prog_index.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-id="" tvg-logo="",Trace Naija
+https://d2ktlibtvvj8vp.cloudfront.net/trace_naija/5/prog_index.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-id="" tvg-logo="",Trace Naija HD 720
+https://d2ktlibtvvj8vp.cloudfront.net/trace_naija/6/prog_index.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-id="" tvg-logo="",Trace Toca
+https://d2ktlibtvvj8vp.cloudfront.net/trace_toca/5/prog_index.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-id="" tvg-logo="",Trace Tropical
+https://d2ktlibtvvj8vp.cloudfront.net/trace_tropical/5/prog_index.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-id="" tvg-logo="",Trace Tropical HD 720
+https://d2ktlibtvvj8vp.cloudfront.net/trace_tropical/6/prog_index.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-id="398" tvg-logo="",Trace Urban
+https://d2ktlibtvvj8vp.cloudfront.net/trace_urbaninter/5/prog_index.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-id="398" tvg-logo="",Trace Urban HD 720
+https://d2ktlibtvvj8vp.cloudfront.net/trace_urbaninter/6/prog_index.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-id="398" tvg-logo="",Trace Urban HD
+http://46.160.166.9:81/udp/239.254.2.183:1234
+#EXTINF:-1 group-title="Музыкальные" tvg-id="399" tvg-logo="",VH-1 Classic
+http://46.37.210.19:34040/udp/238.39.40.210:5000
+#EXTINF:-1 group-title="Музыкальные" tvg-id="400" tvg-logo="",VH-1 Europen
+http://78.111.93.102:53022/udp/225.101.1.7:1234
+#EXTINF:-1 group-title="Музыкальные" tvg-id="401" tvg-logo="",Vostok TV
+http://109.248.90.56:4044/udp/239.195.0.157:1234
+#EXTINF:-1 group-title="Музыкальные" tvg-id="402" tvg-logo="",Жара
+http://188.44.98.221:1234/udp/239.54.7.2:1224
+#EXTINF:-1 group-title="Музыкальные" tvg-id="403" tvg-logo="",Жар-Птица
+http://95.181.236.231:8082/udp/239.191.254.72:13343
+#EXTINF:-1 group-title="Музыкальные" tvg-id="403" tvg-logo="",Жар-Птица HD 720
+https://strm.yandex.ru/kal/firebird/firebird0_169_720p.json/index-v1-a1.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-id="" tvg-logo="",Ля-Минор
+http://185.11.148.163:81/udp/239.195.2.35:1234
+#EXTINF:-1 group-title="Музыкальные" tvg-id="404" tvg-logo="",Матур ТВ
+https://strm.yandex.ru/kal/matur/matur0_169_480p.json/index-v1-a1.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-id="404" tvg-logo="",Матур ТВ HD 720
+https://strm.yandex.ru/kal/matur/matur0_169_720p.json/index-v1-a1.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-id="404" tvg-logo="",Матур ТВ HD
+http://109.248.75.121:4044/udp/239.195.1.87:1234
+#EXTINF:-1 group-title="Музыкальные" tvg-id="405" tvg-logo="",МузСоюз
+http://95.85.93.206:8082/udp/239.191.254.189:13343
+#EXTINF:-1 group-title="Музыкальные" tvg-id="406" tvg-logo="",Музыка первого
+http://109.74.208.91:34040/udp/239.54.6.229:1234
+#EXTINF:-1 group-title="Музыкальные" tvg-id="20" tvg-logo="",Муз-ТВ
+http://109.248.72.241:4044/udp/239.195.49.54:1234
+#EXTINF:-1 group-title="Музыкальные" tvg-id="20" tvg-logo="",Муз-ТВ (+2)
+http://109.248.72.241:4044/udp/239.195.52.54:1234
+#EXTINF:-1 group-title="Музыкальные" tvg-id="20" tvg-logo="",Муз-ТВ (+4)
+http://82.200.127.58:8080/udp/239.54.5.142:1224
+#EXTINF:-1 group-title="Музыкальные" tvg-id="20" tvg-logo="",Муз-ТВ (+7)
+http://109.248.72.241:4044/udp/239.195.57.54:1234
+#EXTINF:-1 group-title="Музыкальные" tvg-id="407" tvg-logo="",Наше TV
+http://hls-01-nashetv.magonet.ru/nashetv/live/index.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-id="408" tvg-logo="",Наше Music HD (UA)
+http://46.37.210.19:34040/udp/238.39.40.223:5000
+#EXTINF:-1 group-title="Музыкальные" tvg-id="409" tvg-logo="",О!2
+http://46.175.122.251:4022/udp/239.195.65.63:1234
+#EXTINF:-1 group-title="Музыкальные" tvg-id="409" tvg-logo="",О!2 HD 720
+https://strm.yandex.ru/kal/o2/o20_169_720p.json/index-v1-a1.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-id="" tvg-logo="",Первый Музыкальный 4K UHD (BY)
+http://rtmp.one.by:1499
+#EXTINF:-1 group-title="Музыкальные" tvg-id="410" tvg-logo="",Страна FM
+http://185.253.103.54:81/udp/239.195.5.20:1234
+#EXTINF:-1 group-title="Музыкальные" tvg-id="411" tvg-logo="",ТНТ Music
+http://178.163.101.21:4022/udp/234.0.0.231:2000
+#EXTINF:-1 group-title="Музыкальные" tvg-id="411" tvg-logo="",ТНТ Music HD 720
+https://strm.yandex.ru/kal/tntmusic/tntmusic0_169_720p.json/index-v1-a1.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-id="411" tvg-logo="",ТНТ Music HD
+https://strm.yandex.ru/kal/tntmusic/tntmusic0_169_1080p.json/index-v1-a1.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-id="412" tvg-logo="",Шансон ТВ
+http://178.163.48.195:4022/udp/234.0.0.189:2000
+#EXTINF:-1 group-title="Информационные" tvg-id="413" tvg-logo="",112 Україна
+http://api.tv.ipnet.ua/api/v1/manifest/1442908080.m3u8
+#EXTINF:-1 group-title="Информационные" tvg-id="413" tvg-logo="",112 Україна HD 720
+http://112hd-hls3.cosmonova.net.ua/hls/112hd_ua_mid/index.m3u8
+#EXTINF:-1 group-title="Информационные" tvg-id="413" tvg-logo="",112 Україна HD
+http://112hd-hls3.cosmonova.net.ua/hls/112hd_ua_hi/index.m3u8
+#EXTINF:-1 group-title="Информационные" tvg-id="415" tvg-logo="",24 канал (UA)
+http://46.37.210.19:34040/udp/238.39.40.62:5000
+#EXTINF:-1 group-title="Информационные" tvg-id="415" tvg-logo="",24 канал HD (UA)
+http://178.150.0.32:8081/udp/238.0.0.120:1234
+#EXTINF:-1 group-title="Информационные" tvg-id="417" tvg-logo="",BBC World News (EN)
+http://82.200.127.58:8080/udp/239.54.6.167:1224
+#EXTINF:-1 group-title="Информационные" tvg-id="418" tvg-logo="",Bloomberg (EN)
+http://78.111.93.102:53022/udp/239.99.1.153:1234
+#EXTINF:-1 group-title="Информационные" tvg-id="419" tvg-logo="",CGTN (EN)
+http://185.7.94.86:4021/udp/239.10.1.162:5000
+#EXTINF:-1 group-title="Информационные" tvg-id="420" tvg-logo="",CGTN (RU)
+http://185.7.94.86:4021/udp/239.10.2.112:5000
+#EXTINF:-1 group-title="Информационные" tvg-id="" tvg-logo="",CGTN Documentary
+http://78.111.93.102:53022/udp/233.166.172.194:1234
+#EXTINF:-1 group-title="Информационные" tvg-id="421" tvg-logo="",CNN (EN)
+http://82.200.127.58:8080/udp/239.54.6.60:1224
+#EXTINF:-1 group-title="Информационные" tvg-id="414" tvg-logo="",Deutche Welle (DE)
+http://176.125.66.167:4022/udp/239.54.5.119:1234
+#EXTINF:-1 group-title="Информационные" tvg-id="422" tvg-logo="",Deutche Welle (EN)
+http://109.248.75.121:4044/udp/239.195.0.51:1234
+#EXTINF:-1 group-title="Информационные" tvg-id="" tvg-logo="",Euronews (DE)
+http://188.35.9.5:10020/stolen/511h/hot.dll
+#EXTINF:-1 group-title="Информационные" tvg-id="" tvg-logo="",Euronews (FR)
+http://188.35.9.5:10020/stolen/510i/hot.dll
+#EXTINF:-1 group-title="Информационные" tvg-id="" tvg-logo="",France 24 (AR)
+http://f24hls-i.akamaihd.net/hls/live/221196-b/F24_AR_LO_HLS/master_900.m3u8
+#EXTINF:-1 group-title="Информационные" tvg-id="424" tvg-logo="",France 24 (FR)
+http://f24hls-i.akamaihd.net/hls/live/221192-b/F24_FR_LO_HLS/master_900.m3u8
+#EXTINF:-1 group-title="Информационные" tvg-id="425" tvg-logo="",France 24 (EN)
+http://f24hls-i.akamaihd.net/hls/live/221193-b/F24_EN_LO_HLS/master_900.m3u8
+#EXTINF:-1 group-title="Информационные" tvg-id="424" tvg-logo="",France 24 HD (FR)
+http://78.29.1.69/live/france_24/copy/playlist.m3u8
+#EXTINF:-1 group-title="Информационные" tvg-id="425" tvg-logo="",France 24 HD (EN)
+http://109.248.72.241:4044/udp/239.195.0.50:1234
+#EXTINF:-1 group-title="Информационные" tvg-id="" tvg-logo="",Media-Iнформ (UA)
+http://176.119.87.40:1212/udp/239.0.217.27:1234
+#EXTINF:-1 group-title="Информационные" tvg-id="" tvg-logo="",Media-Iнформ HD (UA)
+http://195.138.78.74:8085/udp/239.2.153.80:1234
+#EXTINF:-1 group-title="Информационные" tvg-id="426" tvg-logo="",News One (UA)
+http://195.138.78.72:8085/udp/239.1.74.60:1234
+#EXTINF:-1 group-title="Информационные" tvg-id="426" tvg-logo="",News One HD (UA)
+http://178.150.0.32:8081/udp/238.0.0.37:1234
+#EXTINF:-1 group-title="Информационные" tvg-id="427" tvg-logo="",NHK World Japan
+http://109.248.73.69:4022/udp/239.195.1.110:1234
+#EXTINF:-1 group-title="Информационные" tvg-id="427" tvg-logo="",NHK World Japan HD
+http://109.248.75.121:4044/udp/239.195.0.104:1234
+#EXTINF:-1 group-title="Информационные" tvg-id="" tvg-logo="",Phoenix Info News (Китай)
+http://77.247.174.120:15902/udp/235.10.10.144:1234
+#EXTINF:-1 group-title="Информационные" tvg-id="428" tvg-logo="",RT (EN)
+http://82.200.127.58:8080/udp/239.54.6.99:1224
+#EXTINF:-1 group-title="Информационные" tvg-id="428" tvg-logo="",RT HD (EN)
+http://109.248.73.69:4022/udp/239.195.0.27:1234
+#EXTINF:-1 group-title="Информационные" tvg-id="430" tvg-logo="",Zik (UA)
+http://46.37.210.19:34040/udp/238.39.40.78:5000
+#EXTINF:-1 group-title="Информационные" tvg-id="430" tvg-logo="",Zik HD (UA)
+http://178.150.0.32:8081/udp/238.0.0.16:1234
+#EXTINF:-1 group-title="Информационные" tvg-id="431" tvg-logo="",Дождь
+http://185.7.94.86:4021/udp/239.10.2.236:5000
+#EXTINF:-1 group-title="Информационные" tvg-id="431" tvg-logo="",Дождь HD
+http://185.7.94.86:4021/udp/239.10.2.19:5000
+#EXTINF:-1 group-title="Информационные" tvg-id="7" tvg-logo="",Россия 24
+http://178.163.18.213:4022/udp/234.0.0.207:2000
+#EXTINF:-1 group-title="Информационные" tvg-id="432" tvg-logo="",Евроновости
+http://109.248.72.241:4044/udp/239.195.0.26:1234
+#EXTINF:-1 group-title="Информационные" tvg-id="433" tvg-logo="",Известия
+http://109.248.72.241:4044/udp/239.195.41.4:1234
+#EXTINF:-1 group-title="Информационные" tvg-id="433" tvg-logo="",Известия HD
+http://77.247.174.120:15902/udp/235.10.10.49:1234
+#EXTINF:-1 group-title="Информационные" tvg-id="434" tvg-logo="",Мир 24
+http://176.114.129.233:81/udp/239.100.2.55:1234
+#EXTINF:-1 group-title="Информационные" tvg-id="434" tvg-logo="",Мир 24 HD
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/chunklist.m3u8?hls_proxy_host=pub1.rtmp.s01.l.mirtv
+#EXTINF:-1 group-title="Информационные" tvg-id="435" tvg-logo="",Настоящее время
+http://rfe-lh.akamaihd.net/i/rfe_tvmc5@383630/index_0540_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="Информационные" tvg-id="435" tvg-logo="",Настоящее время HD 720
+http://rfe-lh.akamaihd.net/i/rfe_tvmc5@383630/index_0720_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="Информационные" tvg-id="435" tvg-logo="",Настоящее время HD
+http://rfe-lh.akamaihd.net/i/rfe_tvmc5@383630/index_1080_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="Информационные" tvg-id="436" tvg-logo="",Новости 360
+http://109.248.70.42:4022/udp/239.195.1.155:1234
+#EXTINF:-1 group-title="Информационные" tvg-id="438" tvg-logo="",Телеканал 360
+http://176.196.129.24:81/udp/239.255.42.216:1234
+#EXTINF:-1 group-title="Информационные" tvg-id="438" tvg-logo="",Телеканал 360 HD
+http://109.248.75.121:4044/udp/239.195.0.192:1234
+#EXTINF:-1 group-title="Информационные" tvg-id="439" tvg-logo="",РБК
+http://178.163.114.237:4022/udp/234.0.0.151:2000
+#EXTINF:-1 group-title="Информационные" tvg-id="439" tvg-logo="",РБК (Новосибирск)
+http://82.200.127.58:8080/udp/239.54.5.79:1224
+#EXTINF:-1 group-title="Информационные" tvg-id="440" tvg-logo="",ЧП.Info (UA)
+http://79.135.212.152:4022/udp/238.39.40.77:5000
+#EXTINF:-1 group-title="Информационные" tvg-id="441" tvg-logo="",Boutique TV
+http://46.37.210.19:34040/udp/238.39.40.110:5000
+#EXTINF:-1 group-title="Информационные" tvg-id="" tvg-logo="",Leomax
+http://176.114.129.233:81/udp/239.100.2.68:1234
+#EXTINF:-1 group-title="Информационные" tvg-id="" tvg-logo="",Shop & Show
+http://82.200.127.58:8080/udp/239.54.6.21:1224
+#EXTINF:-1 group-title="Информационные" tvg-id="442" tvg-logo="",Shop 24
+http://176.196.129.24:81/udp/239.255.42.211:1234
+#EXTINF:-1 group-title="Информационные" tvg-id="443" tvg-logo="",Shoping Live
+http://109.248.72.241:4044/udp/239.195.1.127:1234
+#EXTINF:-1 group-title="Информационные" tvg-id="444" tvg-logo="",Top Shop
+http://109.248.70.42:4022/udp/239.195.32.79:1234
+#EXTINF:-1 group-title="Информационные" tvg-id="" tvg-logo="",TV Mall
+http://109.74.208.91:34040/udp/239.54.6.10:1234
+#EXTINF:-1 group-title="Информационные" tvg-id="" tvg-logo="",Витрина
+http://82.200.127.58:8080/udp/239.54.5.41:1224
+#EXTINF:-1 group-title="Информационные" tvg-id="445" tvg-logo="",Дисконт
+http://82.200.127.58:8080/udp/239.54.6.130:1224
+#EXTINF:-1 group-title="Информационные" tvg-id="" tvg-logo="",Столичный магазин
+http://109.248.73.69:4022/udp/239.195.0.80:1234
+#EXTINF:-1 group-title="Информационные" tvg-id="446" tvg-logo="",Ювелирочка
+http://109.248.75.121:4044/udp/239.195.41.22:1234
+#EXTINF:-1 group-title="Региональные" tvg-id="447" tvg-logo="",ЧГТРК Грозный
+https://live2.mediacdn.ru/sr1/grozny/chunklist_b1498000.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="" tvg-logo="",1TV Georgia
+http://tv.cdn.xsg.ge/gpb-1tv/tracks-v2a1/mono.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="" tvg-logo="",1TV Georgia HD 720
+http://tv.cdn.xsg.ge/gpb-1tv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="448" tvg-logo="",РГВК Дагестан
+http://109.248.70.42:4022/udp/239.195.41.41:1234
+#EXTINF:-1 group-title="Региональные" tvg-id="449" tvg-logo="",Архыз 24 (Черкесск)
+http://78.111.93.102:53022/udp/225.101.62.7:1234 {m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="449" tvg-logo="",Архыз 24 HD 720 (Черкесск)
+http://live.mediacdn.ru/sr1/arhis24/chunklist_b2396000.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="450" tvg-logo="",Продвижение
+http://46.36.25.160:1213/udp/239.255.0.48:1234
+#EXTINF:-1 group-title="Региональные" tvg-id="450" tvg-logo="",Продвижение (+7)
+http://95.181.236.231:8082/udp/239.191.254.167:13343
+#EXTINF:-1 group-title="Региональные" tvg-id="" tvg-logo="",29 регион HD 720 (Архангельск)
+https://live-atkmedia.cdnvideo.ru/atkmedia/atkmedia/chunklist.m3u8?hls_proxy_host=pub1.rtmp.s01.l.atkmedia
+#EXTINF:-1 group-title="Региональные" tvg-id="452" tvg-logo="",Астрахань 24
+http://streaming.astrakhan.ru/astrakhan24/tracks-v3a1/mono.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="452" tvg-logo="",Астрахань 24 HD 720
+http://streaming.astrakhan.ru/astrakhan24/tracks-v2a1/mono.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="452" tvg-logo="",Астрахань 24 HD
+http://streaming.astrakhan.ru/astrakhan24/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="" tvg-logo="",Катунь 24
+http://188.44.98.221:1234/udp/239.54.5.147:1224
+#EXTINF:-1 group-title="Региональные" tvg-id="453" tvg-logo="",Мир Белогорья
+http://109.248.72.241:4044/udp/239.195.41.229:1234
+#EXTINF:-1 group-title="Региональные" tvg-id="454" tvg-logo="",Брянская Губерния
+https://strm.yandex.ru/kal/brgub/brgub0_169_480p.json/index-v1-a1.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="" tvg-logo="",Восток 24 (+7)
+http://79.133.111.182:999/udp/239.191.255.33:13343
+#EXTINF:-1 group-title="Региональные" tvg-id="455" tvg-logo="",ОТВ-Прим
+http://109.248.72.241:4044/udp/239.195.41.219:1234
+#EXTINF:-1 group-title="Региональные" tvg-id="456" tvg-logo="",Волгоград 1
+http://213.234.30.38/Live/1000k/stream.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="456" tvg-logo="",Волгоград 1 HD 720
+https://strm.yandex.ru/kal/volgograd1/volgograd10_169_720p.json/index-v1-a1.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="456" tvg-logo="",Волгоград 1 HD
+https://strm.yandex.ru/kal/volgograd1/volgograd10_169_1080p.json/index-v1-a1.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="457" tvg-logo="",Волгоград 24
+http://109.248.95.38:4044/udp/239.195.41.216:1234
+#EXTINF:-1 group-title="Региональные" tvg-id="458" tvg-logo="",Русский Север
+http://rusevertv.ru/576/rs_crf28_.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="459" tvg-logo="",TV Губерния (Воронеж)
+http://tvgubernia-htlive.cdn.ngenix.net/live/mp4:tv-gubernia-live/chunklist.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="460" tvg-logo="",Крик ТВ
+http://5.2.47.55:81/udp/239.254.2.208:1234
+#EXTINF:-1 group-title="Региональные" tvg-id="460" tvg-logo="",Крик ТВ HD 720
+http://hls-rictv.cdnvideo.ru/rictv/rictv.sdp/chunklist.m3u8?hls_proxy_host=pub1.rtmp.s01.l.rictv
+#EXTINF:-1 group-title="Региональные" tvg-id="" tvg-logo="",Министерство идей (Екатеринбург)
+https://live-minidey.cdnvideo.ru/minidey/minidey.sdp/chunklist.m3u8?hls_proxy_host=pub1.rtmp.s01.l.minidey
+#EXTINF:-1 group-title="Региональные" tvg-id="461" tvg-logo="",ОТВ 24 (Екатеринбург)
+https://strm.yandex.ru/kal/otv24/otv240_169_480p.json/index-v1-a1.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="461" tvg-logo="",ОТВ 24 HD 720 (Екатеринбург)
+https://strm.yandex.ru/kal/otv24/otv240_169_720p.json/index-v1-a1.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="461" tvg-logo="",ОТВ 24 HD (Екатеринбург)
+https://strm.yandex.ru/kal/otv24/otv240_169_1080p.json/index-v1-a1.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="" tvg-logo="",УрФО 24 HD (Екатеринбург)
+http://live-urfo24.cdnvideo.ru/urfo24/urfo24.sdp/chunklist.m3u8?hls_proxy_host=pub1.rtmp.s01.l.urfo24
+#EXTINF:-1 group-title="Региональные" tvg-id="462" tvg-logo="",Моя Удмуртия (Ижевск) (+1)
+http://hls-myudm.cdnvideo.ru/myudm-live/myudm.sdp/chunklist.m3u8?hls_proxy_host=pub3.rtmp.s01.l.myudm
+#EXTINF:-1 group-title="Региональные" tvg-id="463" tvg-logo="",Аист ТВ (Иркутск) (+5)
+http://79.133.123.3:999/udp/239.191.254.188:13343
+#EXTINF:-1 group-title="Региональные" tvg-id="" tvg-logo="",Универ ТВ (Казань) HD 720
+http://cdn.universmotri.ru/live/hq.sdp/chunklist_w1940637089.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="464" tvg-logo="",Ника ТВ (Калуга)
+http://live-nikatv.cdnvideo.ru/nikatv/nikatv.sdp/chunklist.m3u8?hls_proxy_host=pub1.rtmp.s01.l.nikatv
+#EXTINF:-1 group-title="Региональные" tvg-id="" tvg-logo="",Рим
+http://176.114.130.10:81/udp/239.100.2.27:1234
+#EXTINF:-1 group-title="Региональные" tvg-id="465" tvg-logo="",Кубань 24
+http://109.248.75.121:4044/udp/239.195.0.89:1234
+#EXTINF:-1 group-title="Региональные" tvg-id="465" tvg-logo="",Кубань 24 Орбита
+http://185.7.94.86:4021/udp/239.10.1.64:5000
+#EXTINF:-1 group-title="Региональные" tvg-id="466" tvg-logo="",8 Канал
+https://strm.yandex.ru/kal/8_channel_supres/8_channel_supres0_169_480p.json/index-v1-a1.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="467" tvg-logo="",Афонтово
+http://109.248.72.241:4044/udp/239.195.41.47:1234
+#EXTINF:-1 group-title="Региональные" tvg-id="468" tvg-logo="",Енисей
+http://109.248.70.42:4022/udp/239.195.41.46:1234
+#EXTINF:-1 group-title="Региональные" tvg-id="" tvg-logo="",Липецкое Время
+http://109.248.75.121:4044/udp/239.195.41.36:1234
+#EXTINF:-1 group-title="Региональные" tvg-id="" tvg-logo="",НТМ
+http://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/chunklist_b1628000.m3u8?hls_proxy_host=pub1.rtmp.s01.l.ntm13
+#EXTINF:-1 group-title="Региональные" tvg-id="" tvg-logo="",НТМ HD 720
+http://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/chunklist_b3128000.m3u8?hls_proxy_host=pub1.rtmp.s01.l.ntm13
+#EXTINF:-1 group-title="Региональные" tvg-id="471" tvg-logo="",Москва 24
+http://176.114.128.127:81/udp/239.100.2.64:1234
+#EXTINF:-1 group-title="Региональные" tvg-id="472" tvg-logo="",Москва. Доверие
+http://109.248.90.56:4044/udp/239.195.0.95:1234
+#EXTINF:-1 group-title="Региональные" tvg-id="438" tvg-logo="",Телеканал 360
+http://176.196.129.24:81/udp/239.255.42.216:1234
+#EXTINF:-1 group-title="Региональные" tvg-id="438" tvg-logo="",Телеканал 360 HD
+http://109.248.73.69:4022/udp/239.195.0.192:1234
+#EXTINF:-1 group-title="Региональные" tvg-id="" tvg-logo="",Славянский Мир HD
+http://001935.nyyq.onwgc5tnnfzc45dw.cmle.ru/live/Cinegy.stream/chunklist_w1211878190.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="" tvg-logo="",ТВ 21+ (Мурманск)
+http://tv21.inmurmansk.ru/full_stream.flv
+#EXTINF:-1 group-title="Региональные" tvg-id="" tvg-logo="",Север ТВ (Нарьян-Мар)
+http://live2.mediacdn.ru/sr1/sever-mobile/chunklist_b514000.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="474" tvg-logo="",Тагил ТВ (+2)
+http://46.160.167.232:81/udp/239.254.3.84:1234
+#EXTINF:-1 group-title="Региональные" tvg-id="232" tvg-logo="",Наша Сибирь HD
+https://strm.yandex.ru/kal/sibir/sibir0_169_1080p.json/index-v1-a1.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="232" tvg-logo="",Наша Сибирь 4K UHD
+https://strm.yandex.ru/kal/sibir/sibir0_169_2160p.json/index-v1-a1.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="475" tvg-logo="",НСК 49 (Новосибирск) (+4)
+http://82.200.127.58:8080/udp/239.54.7.136:1224
+#EXTINF:-1 group-title="Региональные" tvg-id="476" tvg-logo="",ОТС
+https://strm.yandex.ru/kal/otstv/otstv0_169_480p.json/index-v1-a1.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="476" tvg-logo="",ОТС HD 720
+https://strm.yandex.ru/kal/otstv/otstv0_169_720p.json/index-v1-a1.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="476" tvg-logo="",ОТС HD
+https://strm.yandex.ru/kal/otstv/otstv0_169_1080p.json/index-v1-a1.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="" tvg-logo="",Одинцово ТВ
+http://185.18.4.16/live/3m/playlist.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="477" tvg-logo="",12 канал (Омск) (+3)
+http://109.248.70.42:4022/udp/239.195.41.173:1234
+#EXTINF:-1 group-title="Региональные" tvg-id="478" tvg-logo="",ОРТ Планета (Оренбург) (+2)
+http://pull-media56.cdnvideo.ru/media56-pull/ortoren/chunklist.m3u8?hls_proxy_host=pub5.rtmp.s01.l.media56
+#EXTINF:-1 group-title="Региональные" tvg-id="" tvg-logo="",Хит HD
+http://185.7.94.86:4021/udp/239.10.2.107:5000
+#EXTINF:-1 group-title="Региональные" tvg-id="" tvg-logo="",ТРК Евразия (Орск) +2
+http://infochh.trkeurasia.ru/hlsinfoch/infochhd.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="479" tvg-logo="",Наш Дом HD 720
+http://85.234.33.60/stream/c11.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="" tvg-logo="",Экспресс HD 720
+http://109.248.72.241:4044/udp/239.195.41.228:1234
+#EXTINF:-1 group-title="Региональные" tvg-id="480" tvg-logo="",Ветта 24 (Пермь)
+http://109.248.90.56:4044/udp/239.195.41.166:1234
+#EXTINF:-1 group-title="Региональные" tvg-id="" tvg-logo="",Про Жизнь (Прокопьевск) (+4)
+http://82.200.127.58:8080/udp/239.0.47.20:1224
+#EXTINF:-1 group-title="Региональные" tvg-id="481" tvg-logo="",Дон 24
+http://donmedia.bonus-tv.ru/cdn/donmedia/tracks-v3a1/mono.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="481" tvg-logo="",Дон 24 HD 720
+http://donmedia.bonus-tv.ru/cdn/donmedia/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="481" tvg-logo="",Дон 24 HD
+http://donmedia.bonus-tv.ru/cdn/donmedia/tracks-v2a1/mono.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="482" tvg-logo="",Ростов Папа ТВ HD
+http://109.248.70.42:4022/udp/239.195.1.199:1234
+#EXTINF:-1 group-title="Региональные" tvg-id="483" tvg-logo="",Эхо ТВ
+http://live-echotv.cdnvideo.ru/echotv/echotv.sdp/chunklist.m3u8?hls_proxy_host=pub1.rtmp.s01.l.echotv
+#EXTINF:-1 group-title="Региональные" tvg-id="" tvg-logo="",Эхо ТВ 24
+http://stream.novouralsk-news.ru/echotv24/live.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="484" tvg-logo="",Ямал-Регион
+http://109.248.90.56:4044/udp/239.195.0.82:1234
+#EXTINF:-1 group-title="Региональные" tvg-id="" tvg-logo="",Губерния (Самара)
+http://live.guberniatv.cdnvideo.ru/guberniatv/guberniatv.sdp/chunklist.m3u8?hls_proxy_host=pub1.rtmp.s01.l.guberniatv
+#EXTINF:-1 group-title="Региональные" tvg-id="486" tvg-logo="",Скат 24 (+1)
+https://hls-scattv.cdnvideo.ru/scattv2/smil:scattv2.smil/chunklist_b900000.m3u8?hls_proxy_host=pub3.rtmp.s01.l.scattv
+#EXTINF:-1 group-title="Региональные" tvg-id="486" tvg-logo="",Скат 24 (+1) HD 720
+https://hls-scattv.cdnvideo.ru/scattv2/smil:scattv2.smil/chunklist_b1500000.m3u8?hls_proxy_host=pub3.rtmp.s01.l.scattv
+#EXTINF:-1 group-title="Региональные" tvg-id="487" tvg-logo="",78 Канал (СПб)
+http://78.gcdn.co/streams/877_13/480n/index.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="487" tvg-logo="",78 Канал HD 720 (СПб)
+http://78.gcdn.co/streams/877_13/720n/index.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="487" tvg-logo="",78 Канал HD (СПб)
+http://78.gcdn.co/streams/877_13/1080n/index.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="488" tvg-logo="",Лен-ТВ 24
+http://109.248.70.42:4022/udp/239.195.0.49:1234
+#EXTINF:-1 group-title="Региональные" tvg-id="489" tvg-logo="",Санкт-Петербург
+http://109.248.70.42:4022/udp/239.195.0.91:1234
+#EXTINF:-1 group-title="Региональные" tvg-id="" tvg-logo="",Осетия-Ирыстон (Северная Осетия)
+https://strm.yandex.ru/kal/osetiya_iryston/osetiya_iryston0_169_480p.json/index-v1-a1.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="" tvg-logo="",Осетия-Ирыстон HD (Северная Осетия)
+https://strm.yandex.ru/kal/osetiya_iryston/osetiya_iryston0_169_1080p.json/index-v1-a1.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="" tvg-logo="",Осетия-Ирыстон HD 720 (Северная Осетия)
+https://strm.yandex.ru/kal/osetiya_iryston/osetiya_iryston0_169_720p.json/index-v1-a1.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="" tvg-logo="",ТВР 24 (С.Посад)
+http://live-tvr24.cdnvideo.ru/tvr24/tvr24.sdp/chunklist.m3u8?hls_proxy_host=pub1.rtmp.s01.l.tvr24
+#EXTINF:-1 group-title="Региональные" tvg-id="" tvg-logo="",ОТВ (Серпухов)
+http://live-otvmedia.cdnvideo.ru/otvmedia/otvmedia/chunklist.m3u8?hls_proxy_host=pub1.rtmp.s01.l.otvmedia
+#EXTINF:-1 group-title="Региональные" tvg-id="" tvg-logo="",Солн ТВ (Солнечногорск)
+http://hls.solntv.cdnvideo.ru/solntv/solntv.sdp/chunklist.m3u8?hls_proxy_host=pub1.rtmp.s01.l.solntv
+#EXTINF:-1 group-title="Региональные" tvg-id="" tvg-logo="",Sochi Live (Сочи)
+https://strm.yandex.ru/kal/sochilive/sochilive0_169_480p.json/index-v1-a1.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="" tvg-logo="",Sochi Live HD (Сочи)
+https://strm.yandex.ru/kal/sochilive/sochilive0_169_1080p.json/index-v1-a1.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="492" tvg-logo="",СТРК HD 720
+http://sochinskayatrk.ru/hdtv/hls/strc_hd/playlist.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="" tvg-logo="",АТВ (Ставрополь)
+http://hls.atvmedia.ru/atv800.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="493" tvg-logo="",Своё ТВ (Ставрополь)
+https://strm.yandex.ru/kal/svoetv/svoetv0_169_480p.json/index-v1-a1.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="493" tvg-logo="",Своё ТВ HD 720 (Ставрополь)
+https://strm.yandex.ru/kal/svoetv/svoetv0_169_720p.json/index-v1-a1.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="493" tvg-logo="",Своё ТВ HD (Ставрополь)
+https://strm.yandex.ru/kal/svoetv/svoetv0_169_1080p.json/index-v1-a1.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="" tvg-logo="",86 канал (Сургут) (+2)
+https://sitv.ru/hls/s861024.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="" tvg-logo="",С1
+https://sitv.ru/hls/stv1024.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="" tvg-logo="",С1 HD 720
+https://sitv.ru/hls/stv.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="494" tvg-logo="",Юрган ТВ (Сыктывкар)
+http://yurgan.bonus-tv.ru/cdn/yurgan/tracks-v3a1/index.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="494" tvg-logo="",Юрган ТВ HD 720 (Сыктывкар)
+http://yurgan.bonus-tv.ru/cdn/yurgan/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="494" tvg-logo="",Юрган ТВ HD (Сыктывкар)
+http://yurgan.bonus-tv.ru/cdn/yurgan/tracks-v2a1/index.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="" tvg-logo="",Тольятти 24 HD 720
+http://91.234.108.26/hls-live/livepkgr/_definst_/liveevent1/vazlivestream1.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="495" tvg-logo="",Томское время
+http://109.248.70.42:4022/udp/239.195.41.218:1234
+#EXTINF:-1 group-title="Региональные" tvg-id="495" tvg-logo="",Томское время HD 720
+https://strm.yandex.ru/kal/tomsktime/tomsktime0_169_720p.json/index-v1-a1.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="495" tvg-logo="",Томское время HD
+https://strm.yandex.ru/kal/tomsktime/tomsktime0_169_1080p.json/index-v1-a1.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="" tvg-logo="",Тивиком HD (Улан-Удэ +5)
+http://tvcom.stream.intelema.ru/tvcom/studio/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="" tvg-logo="",MTV Mix (Уфа) (+2)
+http://81.30.182.82:18091
+#EXTINF:-1 group-title="Региональные" tvg-id="498" tvg-logo="",Башкортостан 24
+http://live.gtrk.tv/540/b24-540.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="498" tvg-logo="",Башкортостан 24 HD
+http://live.gtrk.tv/hls/b24-hls.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="498" tvg-logo="",Башкортостан 24 HD 720
+http://live.gtrk.tv/720/b24-720.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="499" tvg-logo="",БСТ (Уфа)
+http://109.248.72.241:4044/udp/239.195.0.194:1234
+#EXTINF:-1 group-title="Региональные" tvg-id="500" tvg-logo="",Вся Уфа
+https://hls-mycdn0539860594.cdnvideo.ru/mycdn0539860594/allufaru2/chunklist.m3u8?hls_proxy_host=pub1.rtmp.s01.l.mycdn0539860594
+#EXTINF:-1 group-title="Региональные" tvg-id="" tvg-logo="",Амур Медиа
+http://95.181.236.231:8082/udp/239.191.254.180:13343
+#EXTINF:-1 group-title="Региональные" tvg-id="502" tvg-logo="",Губерния (Хабаровск) (+7)
+http://95.181.236.231:8082/udp/239.191.254.15:13343
+#EXTINF:-1 group-title="Региональные" tvg-id="" tvg-logo="",Хабаровск HD
+http://95.181.236.231:8082/udp/239.191.254.225:15283
+#EXTINF:-1 group-title="Региональные" tvg-id="503" tvg-logo="",Югра ТВ (Ханты-Мансийск) +2
+http://live.ugratv.cdnvideo.ru/ugratv/smil:ugrastream1.smil/chunklist_b7192000.m3u8?hls_proxy_host=pub2.rtmp.s01.l.ugratv
+#EXTINF:-1 group-title="Региональные" tvg-id="504" tvg-logo="",Чаваш ен
+http://176.110.236.248:34040/udp/238.1.1.21:1234
+#EXTINF:-1 group-title="Региональные" tvg-id="" tvg-logo="",ЭлТВ/360
+http://live-cdne13.cdnvideo.ru/cdne13/cdne13_new.sdp/chunklist.m3u8?hls_proxy_host=pub1.rtmp.s01.l.cdne13
+#EXTINF:-1 group-title="Региональные" tvg-id="" tvg-logo="",VRT.TV
+http://live-cdne13.cdnvideo.ru/cdne13/cdne13.sdp/chunklist.m3u8?hls_proxy_host=pub1.rtmp.s01.l.cdne13
+#EXTINF:-1 group-title="Региональные" tvg-id="" tvg-logo="",Миг ТВ HD 720 (Ноябрьск)
+http://live-migtv.cdnvideo.ru/migtv/migtv.sdp/chunklist.m3u8?hls_proxy_host=pub1.rtmp.s01.l.migtv
+#EXTINF:-1 group-title="Региональные" tvg-id="505" tvg-logo="",Ноябрьск 24
+https://strm.yandex.ru/kal/noyabrsk24/noyabrsk240_169_480p.json/index-v1-a1.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="505" tvg-logo="",Ноябрьск 24 HD 720
+https://strm.yandex.ru/kal/noyabrsk24/noyabrsk240_169_720p.json/index-v1-a1.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="505" tvg-logo="",Ноябрьск 24 HD
+https://strm.yandex.ru/kal/noyabrsk24/noyabrsk240_169_1080p.json/index-v1-a1.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="" tvg-logo="",ТРК Луч
+http://live.trk-luch.ru/hls/live_mid.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="" tvg-logo="",ТРК Луч HD 720
+http://live.trk-luch.ru/hls/live_hi.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="506" tvg-logo="",ТНВ Планета
+http://82.200.127.58:8080/udp/239.54.5.23:1224
+#EXTINF:-1 group-title="Региональные" tvg-id="508" tvg-logo="",ТНВ Татарстан
+http://176.110.236.248:34040/udp/238.1.2.13:1234
+#EXTINF:-1 group-title="Разное" tvg-id="510" tvg-logo="",7-TV
+http://95.85.93.206:8082/udp/239.191.254.208:13343
+#EXTINF:-1 group-title="Разное" tvg-id="511" tvg-logo="",Arirang Korea
+http://109.248.75.121:4044/udp/239.195.0.83:1234
+#EXTINF:-1 group-title="Разное" tvg-id="512" tvg-logo="",Asia Amazing
+http://37.195.250.64:4022/udp/239.1.21.89:1234
+#EXTINF:-1 group-title="Разное" tvg-id="513" tvg-logo="",KBS World
+http://109.248.72.241:4044/udp/239.195.1.197:1234
+#EXTINF:-1 group-title="Разное" tvg-id="514" tvg-logo="",TV5 Monde Europe
+http://78.111.93.102:53022/udp/233.166.172.23:1234
+#EXTINF:-1 group-title="Разное" tvg-id="515" tvg-logo="",TVM Channel
+http://109.248.90.56:4044/udp/239.195.1.168:1234
+#EXTINF:-1 group-title="Разное" tvg-id="516" tvg-logo="",Вместе РФ
+http://217.25.226.215:4022/udp/235.1.10.198:10000
+#EXTINF:-1 group-title="Разное" tvg-id="517" tvg-logo="",Красная Линия
+http://109.248.95.38:4044/udp/239.195.41.2:1234
+#EXTINF:-1 group-title="Разное" tvg-id="" tvg-logo="",Крым 1
+http://176.114.128.127:81/udp/239.100.2.58:1234
+#EXTINF:-1 group-title="Разное" tvg-id="" tvg-logo="",Крым 24
+http://109.248.73.69:4022/udp/239.195.0.58:1234
+#EXTINF:-1 group-title="Разное" tvg-id="518" tvg-logo="",ЛДПР ТВ
+http://46.175.122.251:4022/udp/239.195.67.6:1234
+#EXTINF:-1 group-title="Разное" tvg-id="" tvg-logo="",Миллет HD 720
+http://live.trkmillet.ru/millet/index.m3u8
+#EXTINF:-1 group-title="Разное" tvg-id="519" tvg-logo="",Мир Premium HD
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/hd/chunklist.m3u8?hls_proxy_host=pub1.rtmp.s01.l.mirtv
+#EXTINF:-1 group-title="Разное" tvg-id="520" tvg-logo="",Надежда
+http://176.114.128.127:81/udp/239.100.2.52:1234
+#EXTINF:-1 group-title="Разное" tvg-id="521" tvg-logo="",Просвещение
+http://109.248.116.115:4044/udp/239.195.0.28:1234
+#EXTINF:-1 group-title="Разное" tvg-id="523" tvg-logo="",Ретро ТВ
+http://82.200.127.58:8080/udp/239.54.6.29:1224
+#EXTINF:-1 group-title="Разное" tvg-id="524" tvg-logo="",РЖД HD 720
+http://hls.tva.cdnvideo.ru/tva/tvahd.sdp/chunklist.m3u8
+#EXTINF:-1 group-title="Разное" tvg-id="524" tvg-logo="",РЖД HD
+http://109.248.72.241:4044/udp/239.195.5.221:1234
+#EXTINF:-1 group-title="Разное" tvg-id="525" tvg-logo="",Союз
+http://178.163.101.21:4022/udp/234.0.0.196:2000
+#EXTINF:-1 group-title="Разное" tvg-id="526" tvg-logo="",ТДК
+http://109.248.95.38:4044/udp/239.195.0.57:1234
+#EXTINF:-1 group-title="Разное" tvg-id="527" tvg-logo="",Теледом HD
+http://78.111.93.102:53022/udp/233.166.172.237:1234
+#EXTINF:-1 group-title="Армения / Հայաստան" tvg-id="" tvg-logo="",Public HD 720
+http://amtv1.livestreamingcdn.com/am2abr/tracks-v2a1/index.m3u8
+#EXTINF:-1 group-title="Армения / Հայաստան" tvg-id="" tvg-logo="",Public HD
+http://amtv1.livestreamingcdn.com/am2abr/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Армения / Հայաստան" tvg-id="" tvg-logo="",Radio Van Camera HD 720
+http://stream.radiovan.fm/stream/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Армения / Հայաստան" tvg-id="528" tvg-logo="",Shant Premium HD
+http://193.233.178.24:999/udp/239.191.255.147:15283
+#EXTINF:-1 group-title="Армения / Հայաստան" tvg-id="" tvg-logo="",Shant News
+http://176.28.67.133:4021/udp/239.10.1.160:5000
+#EXTINF:-1 group-title="Армения / Հայաստան" tvg-id="" tvg-logo="",TBN
+http://bogtvhdlive-f.akamaihd.net/i/tbn_armenia@198331/index_500_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="Беларусь / Беларусь" tvg-id="529" tvg-logo="",8 Канал (BY)
+http://95.46.208.8:24433/art
+#EXTINF:-1 group-title="Беларусь / Беларусь" tvg-id="439" tvg-logo="",ББК
+http://178.124.183.14/hls/MCEQ4XBTHP/bw2000000/playlist.m3u8
+#EXTINF:-1 group-title="Беларусь / Беларусь" tvg-id="530" tvg-logo="",Беларусь 1
+http://178.124.183.13/hls/M52YG9EVYD/bw2500000/playlist.m3u8
+#EXTINF:-1 group-title="Беларусь / Беларусь" tvg-id="530" tvg-logo="",Беларусь 1 HD
+http://178.124.183.13/hls/M52YG9EVYD/bw5000000/playlist.m3u8?version=2
+#EXTINF:-1 group-title="Беларусь / Беларусь" tvg-id="531" tvg-logo="",Беларусь 2 HD
+http://178.124.183.13/hls/GCKYZGGFEJ/bw5000000/playlist.m3u8?version=2
+#EXTINF:-1 group-title="Беларусь / Беларусь" tvg-id="532" tvg-logo="",Беларусь 3
+http://178.124.183.13/hls/TSNEW37RPC/bw2500000/playlist.m3u8
+#EXTINF:-1 group-title="Беларусь / Беларусь" tvg-id="" tvg-logo="",Беларусь 4 (Витебск)
+http://95.46.208.8:26258/belarus4
+#EXTINF:-1 group-title="Беларусь / Беларусь" tvg-id="68" tvg-logo="",Беларусь 5
+http://178.124.183.13/hls/JRKVSUPCP8/bw2500000/playlist.m3u8?version=2
+#EXTINF:-1 group-title="Беларусь / Беларусь" tvg-id="68" tvg-logo="",Беларусь 5 HD
+http://178.124.183.13/hls/JRKVSUPCP8/bw5000000/playlist.m3u8?version=2
+#EXTINF:-1 group-title="Беларусь / Беларусь" tvg-id="539" tvg-logo="",Беларусь 24
+http://178.163.35.238:4022/udp/234.0.0.199:2000
+#EXTINF:-1 group-title="Беларусь / Беларусь" tvg-id="539" tvg-logo="",Беларусь 24 HD
+http://185.7.94.86:4021/udp/239.10.1.213:5000
+#EXTINF:-1 group-title="Беларусь / Беларусь" tvg-id="540" tvg-logo="",БелРос
+http://178.163.43.177:4022/udp/234.0.0.251:2000
+#EXTINF:-1 group-title="Беларусь / Беларусь" tvg-id="538" tvg-logo="",Белсат TV
+http://178.150.0.32:8081/udp/238.0.0.68:1234
+#EXTINF:-1 group-title="Беларусь / Беларусь" tvg-id="533" tvg-logo="",ВТВ
+http://178.124.183.13/hls/CRCQFRNUFJ/bw2000000/playlist.m3u8
+#EXTINF:-1 group-title="Беларусь / Беларусь" tvg-id="26" tvg-logo="",НТВ Беларусь
+http://178.124.183.13/hls/DYJ5GH8HOK/bw1200000/playlist.m3u8
+#EXTINF:-1 group-title="Беларусь / Беларусь" tvg-id="534" tvg-logo="",ОНТ HD (BY)
+http://178.124.183.13/hls/NCLEFHVZGR/bw5000000/playlist.m3u8
+#EXTINF:-1 group-title="Беларусь / Беларусь" tvg-id="" tvg-logo="",СТВ
+http://212.98.171.116/HLS/ctvby/playlist.m3u8
+#EXTINF:-1 group-title="Беларусь / Беларусь" tvg-id="" tvg-logo="",СТВ HD
+http://178.124.183.13/hls/RZEQ3BLSTY/bw5000000/playlist.m3u8
+#EXTINF:-1 group-title="Китай / 中國" tvg-id="" tvg-logo="",CCTV 2
+http://111.40.205.110/PLTV/88888888/224/3221225588/index.m3u8
+#EXTINF:-1 group-title="Китай / 中國" tvg-id="" tvg-logo="",CCTV 2 HD
+http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221227207/index.m3u8
+#EXTINF:-1 group-title="Китай / 中國" tvg-id="543" tvg-logo="",CCTV 4
+http://31.200.226.204:4022/udp/239.239.2.142:1234
+#EXTINF:-1 group-title="Китай / 中國" tvg-id="543" tvg-logo="",CCTV 4 HD
+http://223.110.245.170/PLTV/3/224/3221225534/index.m3u8
+#EXTINF:-1 group-title="Китай / 中國" tvg-id="" tvg-logo="",CCTV 7
+http://111.40.205.110/PLTV/88888888/224/3221225593/index.m3u8
+#EXTINF:-1 group-title="Китай / 中國" tvg-id="" tvg-logo="",CCTV 10
+http://111.40.205.110/PLTV/88888888/224/3221225596/index.m3u8
+#EXTINF:-1 group-title="Китай / 中國" tvg-id="" tvg-logo="",CCTV 12
+http://111.40.205.110/PLTV/88888888/224/3221225598/index.m3u8
+#EXTINF:-1 group-title="Китай / 中國" tvg-id="" tvg-logo="",CCTV 13
+http://111.40.205.110/PLTV/88888888/224/3221225599/index.m3u8
+#EXTINF:-1 group-title="Китай / 中國" tvg-id="" tvg-logo="",Phoenix Info News
+http://77.247.174.120:15902/udp/235.10.10.144:1234
+#EXTINF:-1 group-title="Казахстан / Қазақстан" tvg-id="545" tvg-logo="",Almaty TV HD 720
+http://live-almatytv.cdnvideo.ru/almatytv/almatytv.sdp/chunklist.m3u8?hls_proxy_host=pub1.rtmp.s01.l.almatytv
+#EXTINF:-1 group-title="Казахстан / Қазақстан" tvg-id="" tvg-logo="",Altai
+http://onrez.kaztrk.kz/regional/oskementv/index.m3u8
+#EXTINF:-1 group-title="Казахстан / Қазақстан" tvg-id="" tvg-logo="",Astana TV
+https://sc.id-tv.kz/Astana_38_39.m3u8
+#EXTINF:-1 group-title="Казахстан / Қазақстан" tvg-id="" tvg-logo="",Atameken Business TV
+https://sc.id-tv.kz/Atameken_38_39.m3u8
+#EXTINF:-1 group-title="Казахстан / Қазақстан" tvg-id="" tvg-logo="",Atameken Business TV HD 720
+http://live-atameken.cdnvideo.ru/atameken/atameken_hq.sdp/chunklist.m3u8?hls_proxy_host=pub3.rtmp.s01.l.atameken
+#EXTINF:-1 group-title="Казахстан / Қазақстан" tvg-id="" tvg-logo="",Jambyl
+http://onrez.kaztrk.kz/regional/taraztv/index.m3u8
+#EXTINF:-1 group-title="Казахстан / Қазақстан" tvg-id="" tvg-logo="",Kazakh TV
+http://37.195.250.64:4022/udp/239.1.21.72:1234
+#EXTINF:-1 group-title="Казахстан / Қазақстан" tvg-id="" tvg-logo="",Kazakh TV HD
+http://87.251.164.20:4022/udp/239.195.241.107:1234
+#EXTINF:-1 group-title="Казахстан / Қазақстан" tvg-id="" tvg-logo="",Kokshe
+http://onrez.kaztrk.kz/regional/kokshetautv/index.m3u8
+#EXTINF:-1 group-title="Казахстан / Қазақстан" tvg-id="" tvg-logo="",Qostanai
+http://onrez.kaztrk.kz/regional/kostanaytv/index.m3u8
+#EXTINF:-1 group-title="Казахстан / Қазақстан" tvg-id="" tvg-logo="",Qyzylorda
+http://onrez.kaztrk.kz/regional/kyzylordatv/index.m3u8
+#EXTINF:-1 group-title="Казахстан / Қазақстан" tvg-id="" tvg-logo="",Semei
+http://onrez.kaztrk.kz/regional/semeytv/index.m3u8
+#EXTINF:-1 group-title="Казахстан / Қазақстан" tvg-id="548" tvg-logo="",Большая Азия
+http://176.197.185.234:81/udp/239.255.42.119:1234
+#EXTINF:-1 group-title="Казахстан / Қазақстан" tvg-id="548" tvg-logo="",Большая Азия HD 720
+https://strm.yandex.ru/kal/bigasia/bigasia0_169_720p.json/index-v1-a1.m3u8
+#EXTINF:-1 group-title="Казахстан / Қазақстан" tvg-id="548" tvg-logo="",Большая Азия HD
+https://strm.yandex.ru/kal/bigasia/bigasia0_169_1080p.json/index-v1-a1.m3u8
+#EXTINF:-1 group-title="Казахстан / Қазақстан" tvg-id="546" tvg-logo="",КТК
+http://89.218.30.37/ktklive/live.hq/chunklist_w1679846924.m3u8
+#EXTINF:-1 group-title="Казахстан / Қазақстан" tvg-id="" tvg-logo="",Рика ТВ (Актобе)
+http://live-rikatv.cdnvideo.ru/rikatv/rikatv_tcode.sdp/chunklist.m3u8?hls_proxy_host=pub1.rtmp.s01.l.rikatv
+#EXTINF:-1 group-title="Казахстан / Қазақстан" tvg-id="" tvg-logo="",ТДК 42 HD
+https://sc.id-tv.kz/TDK-42_38_39.m3u8
+#EXTINF:-1 group-title="Казахстан / Қазақстан" tvg-id="547" tvg-logo="",Хабар 24
+https://strm.yandex.ru/kal/khabar24/khabar240_169_480p.json/index-v1-a1.m3u8
+#EXTINF:-1 group-title="Казахстан / Қазақстан" tvg-id="547" tvg-logo="",Хабар 24 HD 720
+https://strm.yandex.ru/kal/khabar24/khabar240_169_720p.json/index-v1-a1.m3u8
+#EXTINF:-1 group-title="Казахстан / Қазақстан" tvg-id="547" tvg-logo="",Хабар 24 HD
+http://live-24kz.cdnvideo.ru/24kz/24kz.sdp/chunklist.m3u8?hls_proxy_host=pub1.rtmp.s01.l.24kz
+#EXTINF:-1 group-title="Польша / Polska" tvg-id="" tvg-logo="",4Fun
+http://188.35.9.18:16050/udp/238.0.16.5:69000
+#EXTINF:-1 group-title="Польша / Polska" tvg-id="" tvg-logo="",Adventure HD
+http://188.35.9.5:10007/stolen/264b/parasite.install
+#EXTINF:-1 group-title="Польша / Polska" tvg-id="" tvg-logo="",BBC Cbeebies
+http://188.35.9.8:21111/udp/163h
+#EXTINF:-1 group-title="Польша / Polska" tvg-id="" tvg-logo="",BBC Earth HD
+http://188.35.9.12:21151/udp/156z
+#EXTINF:-1 group-title="Польша / Polska" tvg-id="" tvg-logo="",Canal+ HD
+http://188.35.9.8:21141/udp/141c
+#EXTINF:-1 group-title="Польша / Polska" tvg-id="" tvg-logo="",CBS Europa HD
+http://188.35.9.13:21151/udp/187h
+#EXTINF:-1 group-title="Польша / Polska" tvg-id="" tvg-logo="",Cinemax HD
+http://188.35.9.15:21131/udp/144y
+#EXTINF:-1 group-title="Польша / Polska" tvg-id="" tvg-logo="",Cinemax 2 HD
+http://188.35.9.11:21121/udp/136y
+#EXTINF:-1 group-title="Польша / Polska" tvg-id="" tvg-logo="",Discovery Historia Europe
+http://188.35.9.12:21141/udp/165e
+#EXTINF:-1 group-title="Польша / Polska" tvg-id="" tvg-logo="",Discovery Science HD
+http://188.35.9.15:21151/udp/188k
+#EXTINF:-1 group-title="Польша / Polska" tvg-id="" tvg-logo="",Eurosport 2 HD
+http://188.35.9.14:21151/udp/192c
+#EXTINF:-1 group-title="Польша / Polska" tvg-id="55" tvg-logo="",Extreme Sports HD
+http://188.35.9.15:21151/udp/189r
+#EXTINF:-1 group-title="Польша / Polska" tvg-id="" tvg-logo="",FilmBox Action
+http://188.35.9.11:21141/udp/146h
+#EXTINF:-1 group-title="Польша / Polska" tvg-id="" tvg-logo="",FilmBox Extra HD
+http://188.35.9.13:21111/udp/170m
+#EXTINF:-1 group-title="Польша / Polska" tvg-id="" tvg-logo="",FilmBox Family
+http://188.35.9.12:21081/udp/154w
+#EXTINF:-1 group-title="Польша / Polska" tvg-id="" tvg-logo="",Fox HD Europe
+http://188.35.9.12:21131/udp/147l
+#EXTINF:-1 group-title="Польша / Polska" tvg-id="" tvg-logo="",Fox Comedy HD
+http://188.35.9.11:21161/udp/173c
+#EXTINF:-1 group-title="Польша / Polska" tvg-id="" tvg-logo="",HBO HD
+http://188.35.9.10:21151/udp/190z
+#EXTINF:-1 group-title="Польша / Polska" tvg-id="" tvg-logo="",HBO 2 HD
+http://188.35.9.8:21151/udp/157a
+#EXTINF:-1 group-title="Польша / Polska" tvg-id="" tvg-logo="",HBO 3 HD
+http://188.35.9.12:21151/udp/154k
+#EXTINF:-1 group-title="Польша / Polska" tvg-id="" tvg-logo="",History HD
+http://188.35.9.15:21121/udp/128c
+#EXTINF:-1 group-title="Польша / Polska" tvg-id="" tvg-logo="",HGTV
+http://188.35.9.15:21121/udp/128c
+#EXTINF:-1 group-title="Польша / Polska" tvg-id="" tvg-logo="",Hope Channel Polska
+http://stream.hopechannel.pl/livetv/colombo/hope_medium/index.m3u8
+#EXTINF:-1 group-title="Польша / Polska" tvg-id="" tvg-logo="",Hope Channel Polska HD 720
+http://stream.hopechannel.pl/livetv/colombo/hope_high/index.m3u8
+#EXTINF:-1 group-title="Польша / Polska" tvg-id="" tvg-logo="",Mango
+http://188.35.9.5:10007/stolen/257c/parasite.install
+#EXTINF:-1 group-title="Польша / Polska" tvg-id="" tvg-logo="",MiniMini+ HD
+http://188.35.9.15:21131/udp/141l
+#EXTINF:-1 group-title="Польша / Polska" tvg-id="" tvg-logo="",Music Vox TV
+http://188.35.9.11:21141/udp/154i
+#EXTINF:-1 group-title="Польша / Polska" tvg-id="" tvg-logo="",National Geographic HD
+http://188.35.9.11:21121/udp/127x
+#EXTINF:-1 group-title="Польша / Polska" tvg-id="" tvg-logo="",Nat Geo People HD
+http://188.35.9.12:21151/udp/186o
+#EXTINF:-1 group-title="Польша / Polska" tvg-id="" tvg-logo="",Nat Geo Wild HD
+http://188.35.9.11:21121/udp/126z
+#EXTINF:-1 group-title="Польша / Polska" tvg-id="" tvg-logo="",National Geographic HD Europe
+http://188.35.9.9:21121/udp/126z
+#EXTINF:-1 group-title="Польша / Polska" tvg-id="" tvg-logo="",Nuta TV
+http://188.35.9.5:10007/stolen/265n/parasite.install
+#EXTINF:-1 group-title="Польша / Polska" tvg-id="" tvg-logo="",Polsat Sport HD
+http://188.35.9.14:21161/udp/172r
+#EXTINF:-1 group-title="Польша / Polska" tvg-id="" tvg-logo="",Polsat Spert Extra HD
+http://188.35.9.9:21161/udp/176z
+#EXTINF:-1 group-title="Польша / Polska" tvg-id="" tvg-logo="",Polsat Sport Fight HD
+http://188.35.9.14:21151/udp/193i
+#EXTINF:-1 group-title="Польша / Polska" tvg-id="" tvg-logo="",Polsat Sport News HD
+http://188.35.9.10:21151/udp/194w
+#EXTINF:-1 group-title="Польша / Polska" tvg-id="" tvg-logo="",Polskie Radio 24 (Webcamera) HD
+http://stream85.polskieradio.pl/sat/streamb.stream/chunklist_w89434471.m3u8
+#EXTINF:-1 group-title="Польша / Polska" tvg-id="" tvg-logo="",Power TV
+http://188.35.9.5:10007/stolen/259k/parasite.install
+#EXTINF:-1 group-title="Польша / Polska" tvg-id="" tvg-logo="",Tele 5
+http://188.35.9.15:21131/udp/143t
+#EXTINF:-1 group-title="Польша / Polska" tvg-id="" tvg-logo="",TNT HD
+http://188.35.9.10:21151/udp/184g
+#EXTINF:-1 group-title="Польша / Polska" tvg-id="" tvg-logo="",TO! TV
+http://188.35.9.5:10007/stolen/260v/parasite.install
+#EXTINF:-1 group-title="Польша / Polska" tvg-id="" tvg-logo="",TVN HD
+http://188.35.9.13:21111/udp/201r
+#EXTINF:-1 group-title="Польша / Polska" tvg-id="" tvg-logo="",TVP 1 HD
+http://188.35.9.9:21121/udp/140g
+#EXTINF:-1 group-title="Польша / Polska" tvg-id="" tvg-logo="",TVP 2 HD
+http://188.35.9.13:21131/udp/135g
+#EXTINF:-1 group-title="Польша / Polska" tvg-id="" tvg-logo="",TVP ABC
+http://188.35.9.11:21111/udp/115r
+#EXTINF:-1 group-title="Польша / Polska" tvg-id="" tvg-logo="",TVP Historia
+http://188.35.9.13:21111/udp/113k
+#EXTINF:-1 group-title="Польша / Polska" tvg-id="" tvg-logo="",TVS
+http://188.35.9.12:21161/udp/183q
+#EXTINF:-1 group-title="Польша / Polska" tvg-id="" tvg-logo="",TVT Rybnik
+http://176.107.129.219/media/tvt/index.m3u8
+#EXTINF:-1 group-title="Польша / Polska" tvg-id="" tvg-logo="",Viasat History HD
+http://188.35.9.15:21121/udp/137s
+#EXTINF:-1 group-title="Польша / Polska" tvg-id="" tvg-logo="",WP
+http://188.35.9.10:21161/udp/225k
+#EXTINF:-1 group-title="Болгария / България" tvg-id="" tvg-logo="",City TV
+https://tv.city.bg/play/tshls/citytv/3.m3u8
+#EXTINF:-1 group-title="Польша / Polska" tvg-id="" tvg-logo="",BBC First HD
+http://188.35.9.8:21151/udp/155r
+#EXTINF:-1 group-title="Польша / Polska" tvg-id="" tvg-logo="",BBC Lifestyle HD
+http://188.35.9.13:21111/udp/164j
+#EXTINF:-1 group-title="Туркменистан / Türkmenistan" tvg-id="" tvg-logo="",Aşgabat TV
+http://217.174.225.146/legacyhls/ch006_720/index.m3u8
+#EXTINF:-1 group-title="Туркменистан / Türkmenistan" tvg-id="" tvg-logo="",Altın Asır TV
+http://217.174.225.146/legacyhls/ch001_720/index.m3u8
+#EXTINF:-1 group-title="Туркменистан / Türkmenistan" tvg-id="" tvg-logo="",Miras TV
+http://217.174.225.146/legacyhls/ch003_720/index.m3u8
+#EXTINF:-1 group-title="Туркменистан / Türkmenistan" tvg-id="" tvg-logo="",Türkmen Avazı
+http://217.174.225.146/legacyhls/ch005_720/index.m3u8
+#EXTINF:-1 group-title="Туркменистан / Türkmenistan" tvg-id="" tvg-logo="",Türkmenistan Sport
+http://217.174.225.146/legacyhls/ch004_720/index.m3u8
+#EXTINF:-1 group-title="Туркменистан / Türkmenistan" tvg-id="" tvg-logo="",Türkmenistan TV
+http://217.174.225.146/legacyhls/ch007_720/index.m3u8
+#EXTINF:-1 group-title="Туркменистан / Türkmenistan" tvg-id="" tvg-logo="",Yaşlık TV
+http://217.174.225.146/legacyhls/ch002_720/index.m3u8
+#EXTINF:-1 group-title="Туркменистан / Türkmenistan" tvg-id="" tvg-logo="",Туркменистан HD 720
+http://62.113.210.2/filstalwelle-live/_definst_/mp4:livestream/chunklist_w660034089.m3u8
+#EXTINF:-1 group-title="Украина / Україна" tvg-id="553" tvg-logo="",1+1
+http://176.53.229.40:4022/udp/233.166.173.26:1234
+#EXTINF:-1 group-title="Украина / Україна" tvg-id="" tvg-logo="",1+1 International
+http://79.135.212.152:4022/udp/238.39.40.113:5000
+#EXTINF:-1 group-title="Украина / Україна" tvg-id="413" tvg-logo="",112 Україна
+http://112hd-hls3.cosmonova.net.ua/hls/112hd_ua_low/index.m3u8
+#EXTINF:-1 group-title="Украина / Україна" tvg-id="413" tvg-logo="",112 Україна HD 720
+http://112hd-hls3.cosmonova.net.ua/hls/112hd_ua_mid/index.m3u8
+#EXTINF:-1 group-title="Украина / Україна" tvg-id="413" tvg-logo="",112 Україна HD
+http://112hd-hls3.cosmonova.net.ua/hls/112hd_ua_hi/index.m3u8
+#EXTINF:-1 group-title="Украина / Україна" tvg-id="554" tvg-logo="",2+2
+http://178.150.0.32:8081/udp/238.0.0.50:1234
+#EXTINF:-1 group-title="Украина / Україна" tvg-id="415" tvg-logo="",24 канал
+http://79.135.212.152:4022/udp/238.39.40.62:5000
+#EXTINF:-1 group-title="Украина / Україна" tvg-id="415" tvg-logo="",24 канал HD
+http://178.150.0.32:8081/udp/238.0.0.120:1234
+#EXTINF:-1 group-title="Украина / Україна" tvg-id="188" tvg-logo="",36.6
+http://178.150.0.32:8081/udp/238.0.0.61:1234
+#EXTINF:-1 group-title="Украина / Україна" tvg-id="188" tvg-logo="",36.6 HD
+http://178.150.0.32:8081/udp/238.0.0.148:1234
+#EXTINF:-1 group-title="Украина / Україна" tvg-id="366" tvg-logo="",4 Ever music HD
+http://178.150.0.32:8081/udp/238.0.0.211:1234
+#EXTINF:-1 group-title="Украина / Україна" tvg-id="555" tvg-logo="",4 Канал
+http://79.135.212.152:4022/udp/238.39.40.74:5000
+#EXTINF:-1 group-title="Украина / Україна" tvg-id="556" tvg-logo="",5 канал (UA)
+http://178.150.0.32:8081/udp/238.0.57.175:1234
+#EXTINF:-1 group-title="Украина / Україна" tvg-id="" tvg-logo="",7 канал (Одесса)
+http://178.150.0.32:8081/udp/238.0.57.172:1234
+#EXTINF:-1 group-title="Украина / Україна" tvg-id="" tvg-logo="",7 канал HD (Одесса)
+http://46.250.19.195:4022/udp/224.5.1.5:1234
+#EXTINF:-1 group-title="Украина / Україна" tvg-id="558" tvg-logo="",8 канал (UA)
+http://46.37.210.19:34040/udp/238.39.40.67:5000
+#EXTINF:-1 group-title="Украина / Україна" tvg-id="558" tvg-logo="",8 канал HD (UA)
+http://178.150.0.32:8081/udp/238.0.0.26:1234
+#EXTINF:-1 group-title="Украина / Україна" tvg-id="" tvg-logo="",A1 (Одесса)
+http://176.119.87.40:1212/udp/239.0.17.13:1234
+#EXTINF:-1 group-title="Украина / Україна" tvg-id="" tvg-logo="",A1 HD (Одесса)
+http://46.250.19.195:4022/udp/224.5.1.16:1234
+#EXTINF:-1 group-title="Украина / Україна" tvg-id="559" tvg-logo="",ATR
+http://46.37.210.19:34040/udp/238.39.40.57:5000
+#EXTINF:-1 group-title="Украина / Україна" tvg-id="559" tvg-logo="",ATR HD
+http://178.150.0.32:8081/udp/238.0.0.18:1234
+#EXTINF:-1 group-title="Украина / Україна" tvg-id="441" tvg-logo="",Boutique TV
+http://46.37.210.19:34040/udp/238.39.40.110:5000
+#EXTINF:-1 group-title="Украина / Україна" tvg-id="560" tvg-logo="",CNL
+http://195.138.78.72:8085/udp/239.2.28.159:1234
+#EXTINF:-1 group-title="Украина / Україна" tvg-id="560" tvg-logo="",CNL HD
+http://178.150.0.32:8081/udp/238.0.1.60:1234
+#EXTINF:-1 group-title="Украина / Україна" tvg-id="" tvg-logo="",Eco TV
+http://79.135.212.152:4022/udp/238.39.40.98:5000
+#EXTINF:-1 group-title="Украина / Україна" tvg-id="" tvg-logo="",Enter Фильм
+http://79.135.212.152:4022/udp/238.39.40.94:5000
+#EXTINF:-1 group-title="Украина / Україна" tvg-id="" tvg-logo="",Epoque
+http://46.37.210.19:34040/udp/238.39.40.96:5000
+#EXTINF:-1 group-title="Украина / Україна" tvg-id="561" tvg-logo="",Etho HD
+http://46.37.210.19:34040/udp/238.39.40.224:5000
+#EXTINF:-1 group-title="Украина / Україна" tvg-id="" tvg-logo="",Etho 4K UHD
+http://178.150.0.32:8081/udp/238.0.0.150:1234
+#EXTINF:-1 group-title="Украина / Україна" tvg-id="" tvg-logo="",Eu Music
+http://46.37.210.19:34040/udp/238.39.40.207:5000
+#EXTINF:-1 group-title="Украина / Україна" tvg-id="" tvg-logo="",Eu Music HD
+http://178.150.0.32:8081/udp/238.0.0.49:1234
+#EXTINF:-1 group-title="Украина / Україна" tvg-id="" tvg-logo="",G News
+http://176.119.87.40:1212/udp/239.0.19.23:1234
+#EXTINF:-1 group-title="Украина / Україна" tvg-id="" tvg-logo="",G TV (Одесса)
+http://46.37.210.19:34040/udp/238.39.40.26:5000
+#EXTINF:-1 group-title="Украина / Україна" tvg-id="" tvg-logo="",G TV HD (Одесса)
+http://46.250.19.195:4022/udp/224.5.1.45:1234
+#EXTINF:-1 group-title="Украина / Україна" tvg-id="" tvg-logo="",HD Fashion & Lifestyle TV (720p)
+http://95.67.47.114/hls/hdfashion_ua_mid/index.m3u8
+#EXTINF:-1 group-title="Украина / Україна" tvg-id="" tvg-logo="",IН ТВ
+http://5.58.64.7:7777/udp/237.0.1.1:1234
+#EXTINF:-1 group-title="Украина / Україна" tvg-id="562" tvg-logo="",Iндиго
+http://46.37.210.19:34040/udp/238.39.40.88:5000
+#EXTINF:-1 group-title="Украина / Україна" tvg-id="563" tvg-logo="",Iнтер
+http://178.150.0.32:8081/udp/238.0.0.79:1234
+#EXTINF:-1 group-title="Украина / Україна" tvg-id="564" tvg-logo="",Iнтер +
+http://185.7.94.86:4021/udp/239.10.2.209:5000
+#EXTINF:-1 group-title="Украина / Україна" tvg-id="565" tvg-logo="",ICTV
+http://178.150.0.32:8081/udp/238.0.0.5:1234
+#EXTINF:-1 group-title="Украина / Україна" tvg-id="566" tvg-logo="",Kvartal TV
+http://178.150.0.32:8081/udp/238.0.1.30:1234
+#EXTINF:-1 group-title="Украина / Україна" tvg-id="290" tvg-logo="",Lale
+http://stream.atr.ua/lale/live/index.m3u8
+#EXTINF:-1 group-title="Украина / Україна" tvg-id="" tvg-logo="",Media-Iнформ
+http://176.119.87.40:1212/udp/239.0.217.27:1234
+#EXTINF:-1 group-title="Украина / Україна" tvg-id="" tvg-logo="",MiLady
+http://79.135.212.152:4022/udp/238.39.40.85:5000
+#EXTINF:-1 group-title="Украина / Україна" tvg-id="" tvg-logo="",MostVideo
+http://w4.mostvideo.tv/tv/ch1.m3u8
+#EXTINF:-1 group-title="Украина / Україна" tvg-id="" tvg-logo="",Music Box
+http://178.150.0.32:8081/udp/238.0.0.45:1234
+#EXTINF:-1 group-title="Украина / Україна" tvg-id="" tvg-logo="",Music Box
+http://176.119.87.40:1212/udp/239.0.153.173:1234
+#EXTINF:-1 group-title="Украина / Україна" tvg-id="" tvg-logo="",News One
+http://188.35.9.8:21151/udp/185f
+#EXTINF:-1 group-title="Украина / Україна" tvg-id="" tvg-logo="",News One HD
+http://178.150.0.32:8081/udp/238.0.0.37:1234
+#EXTINF:-1 group-title="Украина / Україна" tvg-id="" tvg-logo="",Niki Kids
+http://178.150.0.32:8081/udp/238.0.0.114:1234
+#EXTINF:-1 group-title="Украина / Україна" tvg-id="" tvg-logo="",Niki Kids HD
+http://178.150.0.32:8081/udp/238.0.0.115:1234
+#EXTINF:-1 group-title="Украина / Україна" tvg-id="" tvg-logo="",Niki Junior
+http://178.150.0.32:8081/udp/238.0.0.116:1234
+#EXTINF:-1 group-title="Украина / Україна" tvg-id="" tvg-logo="",Niki Junior HD
+http://178.150.0.32:8081/udp/238.0.0.117:1234
+#EXTINF:-1 group-title="Украина / Україна" tvg-id="" tvg-logo="",O-TV Music
+http://api.tv.ipnet.ua/api/v1/manifest/1293297500.m3u8?codec=mpeg4
+#EXTINF:-1 group-title="Украина / Україна" tvg-id="" tvg-logo="",Oboz TV
+http://79.135.212.152:4022/udp/238.39.40.70:5000
+#EXTINF:-1 group-title="Украина / Україна" tvg-id="" tvg-logo="",Oboz TV HD
+http://178.150.0.32:8081/udp/238.0.0.119:1234
+#EXTINF:-1 group-title="Украина / Україна" tvg-id="" tvg-logo="",Olvia (Одесса)
+http://46.250.19.195:4022/udp/224.5.1.50:1234
+#EXTINF:-1 group-title="Украина / Україна" tvg-id="" tvg-logo="",Olvia HD (Одесса)
+http://46.250.19.195:4022/udp/224.5.1.49:1234
+#EXTINF:-1 group-title="Украина / Україна" tvg-id="" tvg-logo="",Plus (Одесса)
+http://46.250.19.195:4022/udp/224.5.1.238:1234
+#EXTINF:-1 group-title="Украина / Україна" tvg-id="" tvg-logo="",Simon TV (Харьков)
+http://hls.simon.ua/live-HD/live/chunks.m3u8
+#EXTINF:-1 group-title="Украина / Україна" tvg-id="568" tvg-logo="",Sirius
+http://178.150.0.32:8081/udp/238.0.1.18:1234
+#EXTINF:-1 group-title="Украина / Україна" tvg-id="569" tvg-logo="",TV5 (Запоріжжя)
+http://hls.cdn.ua/tv5.zp.ua_live/mp4:tv5/chunklist_w898856001.m3u8
+#EXTINF:-1 group-title="Украина / Україна" tvg-id="" tvg-logo="",TV7+
+http://tv7plus.com/hls/tv7.m3u8
+#EXTINF:-1 group-title="Украина / Україна" tvg-id="571" tvg-logo="",UA: Донбас
+http://46.37.210.19:34040/udp/238.39.40.115:5000
+#EXTINF:-1 group-title="Украина / Україна" tvg-id="572" tvg-logo="",UA: Закарпаття
+http://178.150.0.32:8081/udp/238.0.0.75:1234
+#EXTINF:-1 group-title="Украина / Україна" tvg-id="573" tvg-logo="",UA: Крим
+http://46.37.210.19:34040/udp/238.39.40.114:5000
+#EXTINF:-1 group-title="Украина / Україна" tvg-id="258" tvg-logo="",UA: Культура
+http://api.tv.ipnet.ua/api/v1/manifest/1311962540.m3u8?codec=mpeg4
+#EXTINF:-1 group-title="Украина / Україна" tvg-id="574" tvg-logo="",UA: Перший
+http://176.119.87.40:1212/udp/239.0.12.1:1234
+#EXTINF:-1 group-title="Украина / Україна" tvg-id="574" tvg-logo="",UA: Перший HD
+http://46.250.19.195:4022/udp/224.5.1.180:1234
+#EXTINF:-1 group-title="Украина / Україна" tvg-id="" tvg-logo="",UA: Одеса
+http://46.250.19.195:4022/udp/224.5.1.11:1234
+#EXTINF:-1 group-title="Украина / Україна" tvg-id="67" tvg-logo="",XSport
+http://178.150.0.32:8081/udp/238.0.0.56:1234
+#EXTINF:-1 group-title="Украина / Україна" tvg-id="67" tvg-logo="",XSport HD
+http://178.150.0.32:8081/udp/238.0.0.57:1234
+#EXTINF:-1 group-title="Украина / Україна" tvg-id="" tvg-logo="",Z-TV (Запоріжжя)
+https://stream.ztv.zp.ua/hls/live.m3u8
+#EXTINF:-1 group-title="Украина / Україна" tvg-id="430" tvg-logo="",Zik
+http://46.37.210.19:34040/udp/238.39.40.78:5000
+#EXTINF:-1 group-title="Украина / Україна" tvg-id="430" tvg-logo="",Zik HD
+http://178.150.0.32:8081/udp/238.0.0.16:1234
+#EXTINF:-1 group-title="Украина / Україна" tvg-id="575" tvg-logo="",Zoom
+http://79.135.212.152:4022/udp/238.39.40.102:5000
+#EXTINF:-1 group-title="Украина / Україна" tvg-id="" tvg-logo="",Академия
+http://79.135.212.152:4022/udp/238.39.40.16:5000
+#EXTINF:-1 group-title="Украина / Україна" tvg-id="" tvg-logo="",Академия HD
+http://46.250.19.195:4022/udp/224.5.1.203:1234
+#EXTINF:-1 group-title="Украина / Україна" tvg-id="576" tvg-logo="",Бігуді
+http://178.150.0.32:8081/udp/238.0.0.31:1234
+#EXTINF:-1 group-title="Украина / Україна" tvg-id="577" tvg-logo="",Вiнтаж
+http://46.37.210.19:34040/udp/238.39.40.100:5000
+#EXTINF:-1 group-title="Украина / Україна" tvg-id="" tvg-logo="",Возрождение
+http://79.135.212.152:4022/udp/238.39.40.109:5000
+#EXTINF:-1 group-title="Украина / Україна" tvg-id="" tvg-logo="",Всі новини
+http://178.150.0.32:8081/udp/238.0.1.55:1234
+#EXTINF:-1 group-title="Украина / Україна" tvg-id="579" tvg-logo="",Гlas Одесса
+http://46.250.19.195:4022/udp/224.5.1.237:1234
+#EXTINF:-1 group-title="Украина / Україна" tvg-id="580" tvg-logo="",Галичина
+http://46.37.210.19:34040/udp/238.39.40.65:5000
+#EXTINF:-1 group-title="Украина / Україна" tvg-id="578" tvg-logo="",Глас
+http://176.119.87.40:1212/udp/239.0.26.63:1234
+#EXTINF:-1 group-title="Украина / Україна" tvg-id="" tvg-logo="",Град
+http://46.250.19.195:4022/udp/224.5.1.102:1234
+#EXTINF:-1 group-title="Украина / Україна" tvg-id="581" tvg-logo="",Громадське
+http://195.138.78.75:8085/udp/239.0.40.2:1234
+#EXTINF:-1 group-title="Украина / Україна" tvg-id="581" tvg-logo="",Громадське HD
+http://79.135.212.152:4022/udp/238.39.40.200:5000
+#EXTINF:-1 group-title="Украина / Україна" tvg-id="201" tvg-logo="",Дача
+http://79.135.212.152:4022/udp/238.39.40.97:5000
+#EXTINF:-1 group-title="Украина / Україна" tvg-id="583" tvg-logo="",Донбас
+http://79.135.212.152:4022/udp/238.39.40.58:5000
+#EXTINF:-1 group-title="Украина / Україна" tvg-id="" tvg-logo="",Донеччина TV HD 720
+http://stream.dn.ua/hls/stream.m3u8
+#EXTINF:-1 group-title="Украина / Україна" tvg-id="584" tvg-logo="",Думская TV (Одесса)
+http://195.138.78.75:8085/udp/239.2.153.166:1234
+#EXTINF:-1 group-title="Украина / Україна" tvg-id="584" tvg-logo="",Думская TV HD (Одесса)
+http://46.37.210.19:34040/udp/238.39.40.24:5000
+#EXTINF:-1 group-title="Украина / Україна" tvg-id="" tvg-logo="",Ескулап
+http://178.150.0.32:8081/udp/238.0.0.225:1234
+#EXTINF:-1 group-title="Украина / Україна" tvg-id="585" tvg-logo="",Еспресо
+http://46.37.210.19:34040/udp/238.39.40.66:5000
+#EXTINF:-1 group-title="Украина / Україна" tvg-id="585" tvg-logo="",Еспресо HD
+http://176.119.87.40:1212/udp/239.0.153.172:1234
+#EXTINF:-1 group-title="Украина / Україна" tvg-id="" tvg-logo="",Здоровье HD (Одесса)
+http://46.250.19.195:4022/udp/224.5.1.239:1234
+#EXTINF:-1 group-title="Украина / Україна" tvg-id="587" tvg-logo="",К1
+http://178.150.0.32:8081/udp/238.0.0.13:1234
+#EXTINF:-1 group-title="Украина / Україна" tvg-id="588" tvg-logo="",К2
+http://178.150.0.32:8081/udp/238.0.0.23:1234
+#EXTINF:-1 group-title="Украина / Україна" tvg-id="589" tvg-logo="",Караван
+http://178.150.0.32:8081/udp/238.0.1.26:1234
+#EXTINF:-1 group-title="Украина / Україна" tvg-id="590" tvg-logo="",Київ
+http://79.135.212.152:4022/udp/238.39.40.59:5000
+#EXTINF:-1 group-title="Украина / Україна" tvg-id="" tvg-logo="",Коминтерновское ТВ
+http://46.250.19.195:4022/udp/224.5.1.202:1234
+#EXTINF:-1 group-title="Украина / Україна" tvg-id="591" tvg-logo="",КРТ
+http://46.250.19.195:4022/udp/224.5.1.202:1234
+#EXTINF:-1 group-title="Украина / Україна" tvg-id="592" tvg-logo="",М1
+http://178.150.0.32:8081/udp/238.0.0.14:1234
+#EXTINF:-1 group-title="Украина / Україна" tvg-id="593" tvg-logo="",М2
+http://79.135.212.152:4022/udp/238.39.40.90:5000
+#EXTINF:-1 group-title="Украина / Україна" tvg-id="594" tvg-logo="",Мега
+http://195.138.78.75:8085/udp/239.1.5.10:1234
+#EXTINF:-1 group-title="Украина / Україна" tvg-id="595" tvg-logo="",Макси ТВ
+http://79.135.212.152:4022/udp/238.39.40.83:5000
+#EXTINF:-1 group-title="Украина / Україна" tvg-id="" tvg-logo="",Малятко TV
+http://79.135.212.152:4022/udp/238.39.40.87:5000
+#EXTINF:-1 group-title="Украина / Україна" tvg-id="198" tvg-logo="",Наука
+http://178.150.0.32:8081/udp/238.0.0.92:1234
+#EXTINF:-1 group-title="Украина / Україна" tvg-id="" tvg-logo="",Наш
+http://178.150.0.32:8081/udp/238.0.0.100:1234
+#EXTINF:-1 group-title="Украина / Україна" tvg-id="" tvg-logo="",Наш HD
+http://178.150.0.32:8081/udp/238.0.1.87:1234
+#EXTINF:-1 group-title="Украина / Україна" tvg-id="" tvg-logo="",Наше Music HD
+http://46.37.210.19:34040/udp/238.39.40.223:5000
+#EXTINF:-1 group-title="Украина / Україна" tvg-id="596" tvg-logo="",НЛО TV
+http://178.150.0.32:8081/udp/238.0.0.223:1234
+#EXTINF:-1 group-title="Украина / Україна" tvg-id="601" tvg-logo="",НТН
+http://178.150.0.32:8081/udp/238.0.1.52:1234
+#EXTINF:-1 group-title="Украина / Україна" tvg-id="598" tvg-logo="",Надiя
+http://79.135.212.152:4022/udp/238.39.40.107:5000
+#EXTINF:-1 group-title="Украина / Україна" tvg-id="" tvg-logo="",Надiя / Новий канал (Первомайск)
+http://nadiya.home-net.com.ua/mob/mystream.m3u8
+#EXTINF:-1 group-title="Украина / Україна" tvg-id="599" tvg-logo="",Наталi
+http://46.37.210.19:34040/udp/238.39.40.111:5000
+#EXTINF:-1 group-title="Украина / Україна" tvg-id="597" tvg-logo="",Новий канал
+http://178.150.0.32:8081/udp/238.0.0.7:1234
+#EXTINF:-1 group-title="Украина / Україна" tvg-id="" tvg-logo="",Новий християнський
+http://178.150.0.32:8081/udp/238.0.0.96:1234
+#EXTINF:-1 group-title="Украина / Україна" tvg-id="600" tvg-logo="",НТА (Львов)
+http://95.67.106.10/hls/nta_ua_low/index.m3u8
+#EXTINF:-1 group-title="Украина / Україна" tvg-id="600" tvg-logo="",НТА HD 720 (Львов)
+http://95.67.106.10/hls/nta_ua_mid/index.m3u8
+#EXTINF:-1 group-title="Украина / Україна" tvg-id="600" tvg-logo="",НТА HD (Львов)
+http://95.67.106.10/hls/nta_ua_hi/index.m3u8
+#EXTINF:-1 group-title="Украина / Україна" tvg-id="" tvg-logo="",НТК ТВ (Коломия)
+https://stream.ntktv.ua/s/ntk/ntk.m3u8
+#EXTINF:-1 group-title="Украина / Україна" tvg-id="" tvg-logo="",ОГТРК / Нова Одеса
+http://176.119.87.40:1212/udp/239.0.18.12:1234
+#EXTINF:-1 group-title="Украина / Україна" tvg-id="" tvg-logo="",ОНТ
+http://46.37.210.19:34040/udp/238.39.40.19:5000
+#EXTINF:-1 group-title="Украина / Україна" tvg-id="" tvg-logo="",ОЦЕ
+http://79.135.212.152:4022/udp/238.39.40.53:5000
+#EXTINF:-1 group-title="Украина / Україна" tvg-id="320" tvg-logo="",Перший автомобільний
+http://79.135.212.152:4022/udp/238.39.40.218:5000
+#EXTINF:-1 group-title="Украина / Україна" tvg-id="" tvg-logo="",Первый Городской (Одесса)
+http://46.250.19.195:4022/udp/224.5.1.1:1234
+#EXTINF:-1 group-title="Украина / Україна" tvg-id="" tvg-logo="",Перший Захiдний
+http://178.150.0.32:8081/udp/238.0.1.29:1234
+#EXTINF:-1 group-title="Украина / Україна" tvg-id="" tvg-logo="",Перший діловий
+http://79.135.212.152:4022/udp/238.39.40.69:5000
+#EXTINF:-1 group-title="Украина / Україна" tvg-id="" tvg-logo="",Пiксель
+http://178.150.0.32:8081/udp/238.0.0.20:1234
+#EXTINF:-1 group-title="Украина / Україна" tvg-id="" tvg-logo="",Плюс Плюс
+http://79.135.212.152:4022/udp/238.39.40.86:5000
+#EXTINF:-1 group-title="Украина / Україна" tvg-id="603" tvg-logo="",Правда ТУТ
+http://79.135.212.152:4022/udp/238.39.40.56:5000
+#EXTINF:-1 group-title="Украина / Україна" tvg-id="603" tvg-logo="",Правда ТУТ HD
+http://178.150.0.32:8081/udp/238.0.0.22:1234
+#EXTINF:-1 group-title="Украина / Україна" tvg-id="" tvg-logo="",Правда ТУТ Київ
+http://178.150.0.32:8081/udp/238.0.0.62:1234
+#EXTINF:-1 group-title="Украина / Україна" tvg-id="604" tvg-logo="",Прямий
+http://195.138.78.66:8085/udp/239.0.34.83:1234
+#EXTINF:-1 group-title="Украина / Україна" tvg-id="604" tvg-logo="",Прямий HD
+http://46.37.210.19:34040/udp/238.39.40.75:5000
+#EXTINF:-1 group-title="Украина / Україна" tvg-id="602" tvg-logo="",Рада
+http://46.250.19.195:4022/udp/224.5.1.171:1234
+#EXTINF:-1 group-title="Украина / Україна" tvg-id="605" tvg-logo="",Репортёр
+http://176.119.87.40:1212/udp/239.0.16.16:1234
+#EXTINF:-1 group-title="Украина / Україна" tvg-id="" tvg-logo="",Сварожичи
+http://178.150.0.32:8081/udp/238.0.0.76:1234
+#EXTINF:-1 group-title="Украина / Україна" tvg-id="606" tvg-logo="",Сонце
+http://79.135.212.152:4022/udp/238.39.40.103:5000
+#EXTINF:-1 group-title="Украина / Україна" tvg-id="607" tvg-logo="",СТБ
+http://195.138.78.66:8085/udp/239.1.3.6:1234
+#EXTINF:-1 group-title="Украина / Україна" tvg-id="" tvg-logo="",ТВ-Дом (Одесса)
+http://46.149.48.21:1234
+#EXTINF:-1 group-title="Украина / Україна" tvg-id="608" tvg-logo="",ТВА Черновцы
+http://rtsp.cdn.ua/tva.ua_live/_definst_/livestream/chunklist_w1854524268.m3u8
+#EXTINF:-1 group-title="Украина / Україна" tvg-id="609" tvg-logo="",ТелеВсеСвiт
+http://178.150.0.32:8081/udp/238.0.1.156:1234
+#EXTINF:-1 group-title="Украина / Україна" tvg-id="610" tvg-logo="",Тернопiль 1 HD 720
+http://ott.columbus.te.ua/ternopil1/index.m3u8
+#EXTINF:-1 group-title="Украина / Україна" tvg-id="611" tvg-logo="",Терра
+http://176.119.87.40:1212/udp/239.0.251.44:1234
+#EXTINF:-1 group-title="Украина / Україна" tvg-id="612" tvg-logo="",ТЕТ
+http://188.35.9.18:2050/udp/238.0.2.5:69000
+#EXTINF:-1 group-title="Украина / Україна" tvg-id="613" tvg-logo="",Тиса 1
+http://176.119.87.40:1212/udp/239.0.40.72:1234
+#EXTINF:-1 group-title="Украина / Україна" tvg-id="" tvg-logo="",Трофей
+http://79.135.212.152:4022/udp/238.39.40.99:5000
+#EXTINF:-1 group-title="Украина / Україна" tvg-id="" tvg-logo="",Фауна
+http://178.150.0.32:8081/udp/238.0.0.97:1234
+#EXTINF:-1 group-title="Украина / Україна" tvg-id="" tvg-logo="",Футбол 1
+http://178.150.0.32:8081/udp/238.0.0.80:1234
+#EXTINF:-1 group-title="Украина / Україна" tvg-id="" tvg-logo="",Центральный канал
+http://178.150.0.32:8081/udp/238.0.0.216:1234
+#EXTINF:-1 group-title="Украина / Україна" tvg-id="620" tvg-logo="",Черноморская ТРК
+http://79.135.212.152:4022/udp/238.39.40.61:5000
+
+
