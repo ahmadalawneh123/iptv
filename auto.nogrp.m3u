@@ -1,0 +1,127 @@
+#EXTM3U url-tvg="http://iptvbarmen.tk/xmltv.xml.gz"
+#EXTINF:-1 group-title="- IPTV iptvbarmen.tk" tvg-id="1" tvg-logo="http://iptvbarmen.tk/uploads/icon/0.png" tvg-name="[Обновлён 28.07.2021 20:47 | каналов 43]", [Обновлён 28.07.2021 20:47 | каналов 38]
+#EXTGRP:- IPTV iptvbarmen.tk
+http://iptvbarmen.tk/uploads/files/webarmen_iptv.mp4
+#EXTINF:-1 group-title="- IPTV iptvbarmen.tk" tvg-id="2" tvg-logo="http://iptvbarmen.tk/uploads/icon/0.png" tvg-name="[Telegram https://t.me/webarmen | Группа https://vk.com/webarmen_iptvauto]",[Telegram https://t.me/webarmen | Группа https://vk.com/webarmen_iptvauto]
+#EXTGRP:- IPTV iptvbarmen.tk
+http://iptvbarmen.tk/uploads/files/webarmen_iptv.mp4
+#EXTINF:-1 group-title="- IPTV iptvbarmen.tk" tvg-id="3" tvg-logo="http://iptvbarmen.tk/uploads/icon/0.png" tvg-name="[Поддержите! http://iptvbarmen.tk]",[Поддержите! http://iptvbarmen.tk]
+#EXTGRP:- IPTV iptvbarmen.tk
+http://iptvbarmen.tk/uploads/files/webarmen_iptv.mp4
+#EXTINF:-1 group-title="- IPTV iptvbarmen.tk" tvg-id="4" tvg-logo="http://iptvbarmen.tk/uploads/icon/0.png" tvg-name="[Ваша поддержка помогает развивать проект и улучшать его качество!]",[Ваша поддержка помогает развивать проект и улучшать его качество!]
+#EXTGRP:- IPTV iptvbarmen.tk
+http://iptvbarmen.tk/uploads/files/dog.mp4
+#EXTINF:-1 group-title="Новости;HD" tvg-id="1.iptvbarmen.tk" tvg-logo="http://iptvbarmen.tk/uploads/icon/1.png" tvg-name="Россия 1 HD",Россия 1 HD
+#EXTGRP:Новости
+http://a3569458063-s26881.cdn.ngenix.net/hls/russia_hd/playlist_2.m3u8
+#EXTINF:-1 group-title="Новости" tvg-id="155.iptvbarmen.tk" tvg-logo="http://iptvbarmen.tk/uploads/icon/155.png" tvg-name="Россия 24",Россия 24
+#EXTGRP:Новости
+http://37.235.150.205:81/udp/225.50.66.86:1234
+#EXTINF:-1 group-title="Новости" tvg-id="88.iptvbarmen.tk" tvg-logo="http://iptvbarmen.tk/uploads/icon/88.png" tvg-name="BBC World News",BBC World News
+#EXTGRP:Новости
+http://84.47.174.140/hlsl/2/BBC_World/BBC_World.m3u8
+#EXTINF:-1 group-title="LIVE;Новости" tvg-id="70.iptvbarmen.tk" tvg-logo="http://iptvbarmen.tk/uploads/icon/70.png" tvg-name="RTVI",RTVI
+#EXTGRP:LIVE
+http://5.34.50.235/btv/SWM/RTVi/RTVi_384p_1000kbps.m3u8
+#EXTINF:-1 group-title="Новости" tvg-id="210.iptvbarmen.tk" tvg-logo="http://iptvbarmen.tk/uploads/icon/210.png" tvg-name="РБК",РБК
+#EXTGRP:Новости
+http://178.163.22.239:4022/udp/234.0.0.151:2000
+#EXTINF:-1 group-title="Новости" tvg-id="226.iptvbarmen.tk" tvg-logo="http://iptvbarmen.tk/uploads/icon/226.png" tvg-name="Наше ТВ",Наше ТВ
+#EXTGRP:Новости
+http://37.235.180.99:81/udp/225.50.64.12:1234
+#EXTINF:-1 group-title="Новости" tvg-id="235.iptvbarmen.tk" tvg-logo="http://iptvbarmen.tk/uploads/icon/235.png" tvg-name="Bloomberg",Bloomberg
+#EXTGRP:Новости
+https://ciner.daioncdn.net/bloomberght/bloomberght.m3u8
+#EXTINF:-1 group-title="Детям;Развлекательные" tvg-id="4.iptvbarmen.tk" tvg-logo="http://iptvbarmen.tk/uploads/icon/4.png" tvg-name="2x2",2x2
+#EXTGRP:Детям
+http://176.14.207.77:4022/udp/233.33.221.80:5050
+#EXTINF:-1 group-title="Развлекательные" tvg-id="8.iptvbarmen.tk" tvg-logo="http://iptvbarmen.tk/uploads/icon/8.png" tvg-name="Пятница",Пятница
+#EXTGRP:Развлекательные
+http://37.235.194.184:81/udp/225.50.66.56:1234
+#EXTINF:-1 group-title="Развлекательные;HD" tvg-id="35.iptvbarmen.tk" tvg-logo="http://iptvbarmen.tk/uploads/icon/35.png" tvg-name="TLC HD",TLC HD
+#EXTGRP:Развлекательные
+http://pn.tvott.info:80/477874361116321/477874361116321/81528
+#EXTINF:-1 group-title="Развлекательные" tvg-id="9.iptvbarmen.tk" tvg-logo="http://iptvbarmen.tk/uploads/icon/9.png" tvg-name="FOX",FOX
+#EXTGRP:Развлекательные
+https://a3569455792-s26881.cdn.ngenix.net/hls/russia1_plus1/playlist_3.m3u8
+#EXTINF:-1 group-title="Развлекательные;HD" tvg-id="48.iptvbarmen.tk" tvg-logo="http://iptvbarmen.tk/uploads/icon/48.png" tvg-name="НТВ HD",НТВ HD
+#EXTGRP:Развлекательные
+http://178.208.236.35:81/udp/239.72.6.222:1234
+#EXTINF:-1 group-title="Развлекательные" tvg-id="156.iptvbarmen.tk" tvg-logo="http://iptvbarmen.tk/uploads/icon/156.png" tvg-name="5 канал",5 канал
+#EXTGRP:Развлекательные
+http://188.242.204.24:4022/udp/239.239.1.4:5239
+#EXTINF:-1 group-title="Развлекательные" tvg-id="199.iptvbarmen.tk" tvg-logo="http://iptvbarmen.tk/uploads/icon/199.png" tvg-name="E TV",E TV
+#EXTGRP:Развлекательные
+http://37.235.180.99:81/udp/225.50.64.98:1234
+#EXTINF:-1 group-title="Развлекательные" tvg-id="245.iptvbarmen.tk" tvg-logo="http://iptvbarmen.tk/uploads/icon/245.png" tvg-name="Мир",Мир
+#EXTGRP:Развлекательные
+http://37.235.180.99:81/udp/225.50.66.34:1234
+#EXTINF:-1 group-title="Познавательные" tvg-id="58.iptvbarmen.tk" tvg-logo="http://iptvbarmen.tk/uploads/icon/58.png" tvg-name="Наука 2.0",Наука 2.0
+#EXTGRP:Познавательные
+http://37.235.180.99:81/udp/225.50.64.28:1234
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://iptvbarmen.tk/uploads/icon/163.png" tvg-name="TRICK",TRICK
+#EXTGRP:Познавательные
+http://37.235.180.99:81/udp/225.50.64.51:1234
+#EXTINF:-1 group-title="Познавательные;HD" tvg-id="223.iptvbarmen.tk" tvg-logo="http://iptvbarmen.tk/uploads/icon/223.png" tvg-name="Travel + adventure HD",Travel + adventure HD
+#EXTGRP:Познавательные
+http://178.208.236.35:81/udp/239.72.6.99:1234
+#EXTINF:-1 group-title="Фильмы" tvg-id="172.iptvbarmen.tk" tvg-logo="http://iptvbarmen.tk/uploads/icon/172.png" tvg-name="Дом кино",Дом кино
+#EXTGRP:Фильмы
+http://178.163.22.239:4022/udp/234.0.0.219:2000
+#EXTINF:-1 group-title="Фильмы" tvg-id="101.iptvbarmen.tk" tvg-logo="http://iptvbarmen.tk/uploads/icon/101.png" tvg-name="TV XXI",TV XXI
+#EXTGRP:Фильмы
+http://178.163.22.239:4022/udp/234.0.0.187:2000
+#EXTINF:-1 group-title="Фильмы;HD" tvg-id="212.iptvbarmen.tk" tvg-logo="http://iptvbarmen.tk/uploads/icon/212.png" tvg-name="Кино ТВ HD",Кино ТВ HD
+#EXTGRP:Фильмы
+http://37.193.219.224:81/udp/239.1.17.13:1234
+#EXTINF:-1 group-title="Сериалы;HD" tvg-id="159.iptvbarmen.tk" tvg-logo="http://iptvbarmen.tk/uploads/icon/159.png" tvg-name="Fox Life HD",Fox Life HD
+#EXTGRP:Сериалы
+http://37.235.186.113:81/udp/225.50.71.24:1234
+#EXTINF:-1 group-title="Сериалы" tvg-id="190.iptvbarmen.tk" tvg-logo="http://iptvbarmen.tk/uploads/icon/190.png" tvg-name="Дорама",Дорама
+#EXTGRP:Сериалы
+http://37.235.199.92:4022/udp/225.50.64.44:1234
+#EXTINF:-1 group-title="Сериалы" tvg-id="131.iptvbarmen.tk" tvg-logo="http://iptvbarmen.tk/uploads/icon/131.png" tvg-name="Sony Channel",Sony Channel
+#EXTGRP:Сериалы
+http://176.196.18.100:81/udp/239.255.42.42:1234
+#EXTINF:-1 group-title="Сериалы" tvg-logo="http://iptvbarmen.tk/uploads/icon/93.png" tvg-name="HBO",HBO
+#EXTGRP:Сериалы
+http://internetowa.tv/?c=hlsPlay&channel=hbo&token=c3fe716b83826dd6758d3ee76fa42b6a765331b136f657de0477ffcaef968f829c030c446fdb7b3390ddd08e9b412f7e4b34c9d86f248f4e6efbb0ad843f64bd
+#EXTINF:-1 group-title="Сериалы;HD" tvg-logo="http://iptvbarmen.tk/uploads/icon/209.png" tvg-name="Netflix HD",Netflix HD
+#EXTGRP:Сериалы
+http://s4.360iptv.net:8000/897984798/083863826/18775
+#EXTINF:-1 group-title="Детям" tvg-id="57.iptvbarmen.tk" tvg-logo="http://iptvbarmen.tk/uploads/icon/57.png" tvg-name="Карусель",Карусель
+#EXTGRP:Детям
+http://37.235.194.184:81/udp/225.50.66.5:1234
+#EXTINF:-1 group-title="Детям" tvg-id="75.iptvbarmen.tk" tvg-logo="http://iptvbarmen.tk/uploads/icon/75.png" tvg-name="Мульт",Мульт
+#EXTGRP:Детям
+http://37.193.219.224:81/udp/239.1.3.1:1234
+#EXTINF:-1 group-title="Детям" tvg-logo="http://iptvbarmen.tk/uploads/icon/76.png" tvg-name="Мульт и музыка",Мульт и музыка
+#EXTGRP:Детям
+http://176.196.18.100:81/udp/239.255.42.141:1234
+#EXTINF:-1 group-title="Детям" tvg-id="207.iptvbarmen.tk" tvg-logo="http://iptvbarmen.tk/uploads/icon/207.png" tvg-name="FAN",FAN
+#EXTGRP:Детям
+http://37.235.180.99:81/udp/225.50.64.16:1234
+#EXTINF:-1 group-title="Детям;HD" tvg-id="208.iptvbarmen.tk" tvg-logo="http://iptvbarmen.tk/uploads/icon/208.png" tvg-name="FAN HD",FAN HD
+#EXTGRP:Детям
+http://37.193.219.224:81/udp/239.1.21.52:1234
+#EXTINF:-1 group-title="Музыкальные;HD" tvg-id="30.iptvbarmen.tk" tvg-logo="http://iptvbarmen.tk/uploads/icon/30.png" tvg-name="1HD",1HD
+#EXTGRP:Музыкальные
+https://strm.yandex.ru/kal/1hd/1hd0_169_1080p.json/index-v1-a1.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-id="229.iptvbarmen.tk" tvg-logo="http://iptvbarmen.tk/uploads/icon/229.png" tvg-name="MTV Россия",MTV Россия
+#EXTGRP:Музыкальные
+http://178.208.236.35:81/udp/239.72.4.47:1234
+#EXTINF:-1 group-title="Спорт;HD" tvg-id="51.iptvbarmen.tk" tvg-logo="http://iptvbarmen.tk/uploads/icon/51.png" tvg-name="EUROSPORT 1 HD",EUROSPORT 1 HD
+#EXTGRP:Спорт
+http://pn.tvott.info:80/477821120771061/477821120771061/81570
+#EXTINF:-1 group-title="Спорт" tvg-id="61.iptvbarmen.tk" tvg-logo="http://iptvbarmen.tk/uploads/icon/61.png" tvg-name="Eurosport 2",Eurosport 2
+#EXTGRP:Спорт
+http://37.193.219.224:81/udp/239.1.12.4:1234
+#EXTINF:-1 group-title="Спорт" tvg-logo="http://iptvbarmen.tk/uploads/icon/91.png" tvg-name="BeIn Sport",BeIn Sport
+#EXTGRP:Спорт
+http://s4.360iptv.net:8000/897984798/083863826/897
+#EXTINF:-1 group-title="Спорт" tvg-logo="http://iptvbarmen.tk/uploads/icon/120.png" tvg-name="Sky Sport",Sky Sport
+#EXTGRP:Спорт
+http://rv.therevenge.co:2086/307207463745/307207463745/81594
+#EXTINF:-1 group-title="Животные;HD" tvg-id="97.iptvbarmen.tk" tvg-logo="http://iptvbarmen.tk/uploads/icon/97.png" tvg-name="Animal Planet HD",Animal Planet HD
+#EXTGRP:Животные
+http://rv.imax.re:80/307214112414/307214112414/82343
